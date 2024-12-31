@@ -1,9 +1,6 @@
 name: publish-modpack
 
-on:
-  release:
-    types:
-      - published
+on: [ workflow_dispatch ]
 
 jobs:
   publish:
