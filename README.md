@@ -3,7 +3,7 @@
 
 What is it about? (VERY W.I.P)
 
-Once Upon a Time is a modpack that intends to bring back the feeling of wonder most players felt when playing Minecraft for the first time by overhauling progression via the use of technology and magic and reworking old features along the way! The main mods intended for this use are Modern Industrialization and Ars Nouveau.
+Once Upon a Time is an attempt to bring an experience that alleviates the potential for the "2 week Minecraft phase" by focusing on overhauling progression via the use of technology and magic. The main mods intended for this use are Modern Industrialization and Ars Nouveau.
 
 Intended changes from Early game to End game
 
