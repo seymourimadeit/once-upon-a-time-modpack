@@ -669,5 +669,22 @@
 			x: -1.5d
 			y: 2.0d
 		}
+		{
+			dependencies: ["3CDE29A77A15A90A"]
+			id: "4E33C9509118778B"
+			rewards: [{
+				id: "050C4F40A71A61EF"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				count: 16L
+				id: "543263E27D46A8DC"
+				item: { count: 16, id: "minecraft:ender_eye" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
 	]
 }

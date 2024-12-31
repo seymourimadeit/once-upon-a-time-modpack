@@ -671,6 +671,7 @@
 		{
 			dependencies: ["5CD26C97233DBCCD"]
 			id: "77BAA6AAC3F5EDBC"
+			optional: true
 			rewards: [{
 				id: "329DE218D5FB51AD"
 				type: "xp"
@@ -704,6 +705,7 @@
 		{
 			dependencies: ["5CD26C97233DBCCD"]
 			id: "79BF3CDF5901CF41"
+			optional: true
 			rewards: [{
 				id: "4C331D54CC78CD6F"
 				type: "xp"

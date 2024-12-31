@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "31713a86858ca2859cfd320a5338b6f81a2e631b0d9ca503705ffdc05c902534"
 
 [[files]]
+file = "README.md"
+hash = "f56f8070ef1c62b9a8793d237ec63600ec43f538319da507a1e240fe8e68a274"
+
+[[files]]
 file = "config/.toolswap"
 hash = "fcbcf165908dd18a9e49f7ff27810176db8e9f63b4352213741664245224f8aa"
 
@@ -90,7 +94,7 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/RuOK.toml"
-hash = "794ca769c2a9e76dfbfc74e7174ad832c2153c6d57b3764da6209d2ddc56766f"
+hash = "8ee500125f431029a0fa1495ee364923be43816acdf4fdbff09dc2c8558d7295"
 
 [[files]]
 file = "config/WSCommands.json"
@@ -2822,7 +2826,7 @@ hash = "e0103d9a7c2f2068bdc29e27e43be9adbd79828356f6e61d547e5c04de965b2a"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "b843a01b54d06f78042596975cd2d20473bf5d6b2946b96de737df4455ad5691"
+hash = "5cc8976876cfe5a1e0e72218d2214b810bfb2100548ba3757386155d079f268f"
 
 [[files]]
 file = "config/fallingleaves-client-1.toml.bak"
@@ -3302,7 +3306,7 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_beginning.snbt"
-hash = "263431cb4accb5142f2386ecad7b32b9f694d2847c4905af8a566aa8eb11451c"
+hash = "6fab56c0287906ad720da25972a5485954946d10e8af230bb5f8062c2dfd176a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_end.snbt"
@@ -3310,7 +3314,7 @@ hash = "cbec9f95a37bbddd14959bddbfe1373254270344d01122f3a22a68f2007e049b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_middle.snbt"
-hash = "66004cee39e7cb6acea173bc7e6d357779de833abb65896ee72a139ed3f41652"
+hash = "3c3934c5f35d742e7bb012a9386647e55617af05fae166b4e44fafccc398b45b"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -3318,7 +3322,7 @@ hash = "75fd7e53006af7314080d63051693f2c945e7c2e30b6a1af47ffe43386c14e20"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "abce0252a22558452fb8529236b0c4d20cb34ab2d7ced2d228e25850544f75ba"
+hash = "e96c83f5af6832da61aa60e0249b96d2ef2802e18546f639e33dcecd1521acc0"
 
 [[files]]
 file = "config/ftbxmodcompat.snbt"
@@ -4046,7 +4050,7 @@ hash = "eb884c5f76913c93dcdc0fe5d0ec96850d637d900d5242aedd6c6f5f3cc55971"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "e2721a3d6acc0aa13368ec0bea9a1dbbf108db59b296c6c8075c194b4f4c2f5c"
+hash = "fcf6be1d568526b8a1bd17ff373688d16d088891b702f7e0d2a762028d0806cb"
 
 [[files]]
 file = "config/paperdoll-client-1.toml.bak"
@@ -4722,11 +4726,11 @@ hash = "157afddc1e177be5a5d2fecf2738d5d77210cab29684d6ce68090c1ff9fc2d50"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "a2af62d38ed6659be83753892a3a5e5d4b483747c169e405dd3dc863dabf9fab"
+hash = "e82aea211a85edc55348cbcdec39d33e1b20e58e20b4d3e6eecdfa017f395b5e"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "ad66a20ddf225d9bca2a5cc1ca702445cec124bf0ad1f7e024856e161ebe65bc"
+hash = "a72d240d8a791446cbafff1612738b8384db5fc0c58aea6d7654203b1c731ab7"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -5566,7 +5570,7 @@ hash = "272baa584911b04df2a780af7887cfd57befb1f510f5ad9b81229bb49123557b"
 
 [[files]]
 file = "config/uwrad.properties"
-hash = "f63f629ec6cbea5fd1dc7ec5820687dc041be0715d51d5d4cbb62a8a110142d5"
+hash = "21ee5fd47e250169d7354c034023fa631069d7a5ba0c69605870f693f9537d93"
 
 [[files]]
 file = "config/vanillaicereamfix.json5"
@@ -5670,7 +5674,7 @@ hash = "f06b5dd43812e318c3d27102aa1a38d667cf71704bf305a3f11286d963d2e392"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "cab8907a94ec8693f4ba1ef3709f56fb2fa13c43a2607c6828ebcbb334660621"
+hash = "27aa452bf5ce3f6c8a5c7ac801840e8b7e2a433cb1d0b0e2c1ffcbce13818b75"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -6303,6 +6307,10 @@ hash = "1c208fb75bc1da834f0606443f698bc5894377da5ec84ce65d214ab41766c4e1"
 [[files]]
 file = "global_packs/required_resources/modded resource pack thing/pack.mcmeta"
 hash = "b382400ac3b54d6d6cd2e2e4b27bb40e97f5a7b3a83c624de117634aca455a86"
+
+[[files]]
+file = "kZo_Image_1.png"
+hash = "d81865dfdedc66c317e731d6687818056ba4ca4d8173a0e89506044d921b237a"
 
 [[files]]
 file = "kubejs/README.txt"
