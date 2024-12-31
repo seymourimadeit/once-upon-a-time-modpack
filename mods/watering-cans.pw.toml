@@ -1,0 +1,13 @@
+name = "Watering Cans"
+filename = "wateringcans-1.1.0-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3c28c1cb42ab66629f488ea42f4c239c370ec14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5584289
+project-id = 624973

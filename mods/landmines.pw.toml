@@ -1,0 +1,13 @@
+name = "Landmines"
+filename = "landmines-1.0.7-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bcc615f501df3ce351a88af2269d60c3aff73403"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5634990
+project-id = 499336

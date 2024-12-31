@@ -1,0 +1,13 @@
+name = "Bonk Bat"
+filename = "Bonk Bat-1.21.1-1.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08465c74874204aab7df2f66826fa65a5b108995"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5900061
+project-id = 633570

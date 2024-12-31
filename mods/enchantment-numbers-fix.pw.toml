@@ -1,0 +1,13 @@
+name = "Enchantment Numbers Fix"
+filename = "enchantnumfix-neoforge-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d8c2257dfc29d5f303d5e5a56c280b9ad67ec32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5984238
+project-id = 683062

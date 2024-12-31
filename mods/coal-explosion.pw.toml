@@ -1,0 +1,13 @@
+name = "Coal Explosion"
+filename = "coalexplosion-neoforge-1.21.1-1.12.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5c7ac77d3ab82f521b3d79a08865d4801763f0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5809955
+project-id = 410164

@@ -1,0 +1,13 @@
+name = "Unsafe World Random Access Detector (NeoForge)"
+filename = "unsafe-world-random-access-detector-1.1.1+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bce59f81d8513bdbbe36634836dc621214f85830"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5767529
+project-id = 1111799

@@ -1,0 +1,13 @@
+name = "Item placer"
+filename = "itemplacer-neoforge-1.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "641f03c5a395b2299b51c65ee86410779460df3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5649531
+project-id = 1024631

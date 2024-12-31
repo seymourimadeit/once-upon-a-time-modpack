@@ -1,0 +1,13 @@
+name = "Undopia Zombie Skins"
+filename = "Undopia_Zombie_Skins_1.21.x_v.1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad160d98e09fbe26eda481f3df8f073a2a0efe35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5971286
+project-id = 1036676

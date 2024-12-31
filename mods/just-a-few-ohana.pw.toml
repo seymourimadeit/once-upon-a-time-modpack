@@ -1,0 +1,13 @@
+name = "Just a Few Ohana"
+filename = "jafohana-neoforge-mc1.21-10.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55df278df51c0f8a661047e8c9b5e6279aa4322f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5873757
+project-id = 537622

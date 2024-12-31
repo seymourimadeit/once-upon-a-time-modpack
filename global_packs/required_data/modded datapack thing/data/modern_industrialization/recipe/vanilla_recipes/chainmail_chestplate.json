@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "xtx",
+        "xxx",
+        "xxx"
+    ],
+    "key": {
+        "x": {
+            "item": "modern_industrialization:iron_ring"
+        },
+        "t": {
+            "item": "minecraft:leather_chestplate"
+        }
+    },
+    "result": {
+        "id": "minecraft:chainmail_chestplate"
+    }
+}

@@ -1,0 +1,13 @@
+name = "GUI Compass"
+filename = "guicompass-1.21.1-4.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "795183932a07f712f7b9d1ff87adfe19bd86eafe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5609654
+project-id = 347595

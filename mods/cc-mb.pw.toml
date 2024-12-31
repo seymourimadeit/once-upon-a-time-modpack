@@ -1,0 +1,13 @@
+name = "Music Box"
+filename = "cc_mb-neoforge-1.21.0-0.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "088b3b475e7ebf0b476e396cb145f703503bdadf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5981738
+project-id = 936499

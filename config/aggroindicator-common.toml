@@ -1,0 +1,2 @@
+#Do not render alert icons for these mobs
+serverMobBlacklist = []

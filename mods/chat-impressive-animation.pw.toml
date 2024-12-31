@@ -1,0 +1,13 @@
+name = "Chat Impressive Animation"
+filename = "ChatImpressiveAnimation-neoforge-1.2.1+mc1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fc5a76bbee8d18152097c14ab09197456ee0c21"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5973747
+project-id = 972468

@@ -1,0 +1,15 @@
+==== Connector Mixin Patch Audit Summary ====
+Successful: 0
+Partial: 0
+Failed: 1
+Success rate: .00%        Accuracy: .00%
+=============================================
+
+=============== Failed mixins ===============
+elocindev/item_obliterator/fabric_quilt/mixin/ServerPlayerMixin	item_obliterator$removeItemFromInventory(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;I)V
+=============================================
+
+Mixin method elocindev/item_obliterator/fabric_quilt/mixin/ServerPlayerMixin item_obliterator$removeItemFromInventory(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;I)V
+  >> Using org.sinytra.adapter.patch.transformer.operation.param.TransformParameters
+     - Change descriptor to (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;I)V
+

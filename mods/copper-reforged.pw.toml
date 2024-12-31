@@ -1,0 +1,13 @@
+name = "Copper Reforged"
+filename = "copper_reforged-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1b13e0a142abd1001ef2ebdcfc3f86ce8fd7024"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5806659
+project-id = 1120353

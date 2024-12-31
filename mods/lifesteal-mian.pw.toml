@@ -1,0 +1,13 @@
+name = "Lifesteal [Fabric/NeoForge/Forge]"
+filename = "lifesteal-9.3.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1a005eda8c5c6f6391ae6d22313b05a2359f48c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5787486
+project-id = 645185

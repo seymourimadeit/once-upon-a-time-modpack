@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "infested_swarms_spiders:chitin"
+  },
+  "base": {
+    "item": "minecraft:leather_chestplate"
+  },
+  "result": {
+    "count": 1,
+    "id": "infested_swarms_spiders:chitin_chestplate"
+  },
+  "template": {
+    "item": "infested_swarms_spiders:insect_template"
+  }
+}

@@ -1,0 +1,13 @@
+name = "Server Country Flags"
+filename = "servercountryflags-1.10.4-1.21.1-NEOFORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a60532e5b1b2433c01259b6ab2b16f31d3b39ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5704174
+project-id = 841311

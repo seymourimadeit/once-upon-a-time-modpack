@@ -1,0 +1,38 @@
+#Whether or not to enable any of the tweaks relating to mob spawn equipment
+"Enable equipment spawn tweaks" = false
+#If set to true, mobs that can spawn with armor in vanilla will roll trains_tweaks:equipment/generic instead of the vanilla calculation
+#In this case, regional difficulty is passed to the table as a luck value, changing the weight of entries with a quality set
+#Note that unlike mob-specific tables, this loot table does NOT match vanilla behavior by default, so only enable if you intend to overwrite the table in a datapack
+"Generic Mob Tables" = false
+#If set to true, the generic table will be considered to only have armor
+#This should only be false if you have defined mainhand/offhand items in the table, and want most mobs to have the same equipment rolls, including mainhand and offhand
+"Generic Table Only Armor" = true
+#The drop chance for every equipment item generated from equipment loot tables
+#For reference, 8.5% is the default chance for a mob to drop a piece of equipment it spawned with (with the exception of trial chamber spawns, which is 0%)
+#See also: MobDrops.toml - "Mob Equipment Drop Chance"
+# Default: 0.085
+# Range: 0.0 ~ 1.0
+"Equipment Table Drop Chance" = 0.0
+#Whether or not to convert the hardcoded skeleton/stray/bogged spawn held item to the loot table trains_tweaks:equipment/abstract_skeleton
+#This happens after the generic table is rolled
+"Convert Skeletons Spawn" = false
+#Whether or not to convert the hardcoded drowned spawn held item to the loot table trains_tweaks:equipment/drowned
+"Convert Drowned Spawn" = false
+#Whether or not to convert the hardcoded fox spawn held item to the loot table trains_tweaks:equipment/fox
+"Convert Fox Spawn" = false
+#Whether or not to convert the hardcoded piglin spawn armor to the loot table trains_tweaks:equipment/piglin
+"Convert Piglin Spawn" = false
+#Whether or not to convert the hardcoded piglin spawn held items to the loot table trains_tweaks:equipment/piglin_brute
+"Convert Piglin Brute Spawn" = false
+#Whether or not to convert the hardcoded zombified piglin spawn held items to the loot table trains_tweaks:equipment/zombified_piglin
+"Convert Pillager Spawn" = false
+#Whether or not to convert the hardcoded vex spawn held items to the loot table trains_tweaks:equipment/vex
+"Convert Vex Spawn" = false
+#Whether or not to convert the hardcoded vindicator spawn held items to the loot table trains_tweaks:equipment/vindicator
+#This does not effect vindicators spawned as part of a raid
+"Convert Vindicator Spawn" = false
+#Whether or not to convert the hardcoded wither skeleton spawn held items to the loot table trains_tweaks:equipment/wither_skeleton
+"Convert Wither Skeleton Spawn" = false
+#Whether or not to convert the hardcoded zombie/zombie villager/husk spawn held items to the loot table trains_tweaks:equipment/zombie
+#This happens after the generic table is rolled
+"Convert Zombie Spawn" = false

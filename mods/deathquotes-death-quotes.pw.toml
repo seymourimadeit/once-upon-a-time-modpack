@@ -1,0 +1,13 @@
+name = "DeathQuotes / Death Quotes"
+filename = "deathquotes-neoforge-1.21-3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c226c637827b8fc65961273aad5792c8faf780ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5651394
+project-id = 253947

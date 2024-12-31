@@ -1,0 +1,161 @@
+[General]
+	#How frequent the aurora should be visible. Under normal circumstances there can be many continuous days without auroras and vice versa. Lower value = more variable. If -1, then it's visible every night.
+	#Range: > -1
+	auroraVisiblityOctaves = 1
+	#Aurora render distance.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraRenderDistance = 200.0
+	#How high of a resolution should the aurora render in? Lower value = lower resolution and quality but more FPS.
+	#Range: > 0
+	auroraDetail = 175
+	#How many days should there be in a year?
+	#Range: > 0
+	yearLength = 365
+	#How fast the auroras should update and cycle its colors and fade.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraColorUpdateSpeed = 1.0
+	#Should the auroras have a pixelated style?
+	pixelStyle = true
+
+[Coordinates]
+	#Should the poles be endless by default?
+	endlessPoles = false
+	#Default Z coordinate of the equator.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	equatorZ = 10000.0
+	#Default block distance from pole to equator.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	blocks90 = 20000.0
+	#Aurora height offset.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraHeightOffset = 0.0
+	#List of dimensions in which auroras will always render as if you were at the north or south pole.
+	dimensionAuroraAboveHeadPosition = ["minecraft:the_end"]
+	#Customized equator position and distance of poles for the individual dimension. First element is dimension ID, second element is equator pos, third element is distance to poles and forth element is endless poles.
+	#If nothing is defined for a specific dimension, then the default equator and distance to pole configs will be used.
+	dimensionAuroraPosition = ["minecraft:overworld, 10000.0, 20000.0, false", "aether:the_aether, 10000.0, 20000.0, false"]
+	#List of dimensions within which auroras can appear.
+	allowedDimensions = ["minecraft:overworld", "minecraft:the_end", "aether:the_aether"]
+	#List of biomes within which auroras can appear. Leaving the list empty allows the auroras to appear regardless of biome.
+	allowedBiomes = []
+	#Aurora frequency.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraFrequency = 1.0
+	#Aurora width radius.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraWidthRadius = 120000.0
+	#Aurora length radius.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraLengthRadius = 12000.0
+	#Player movement factor.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	playerMovementFactor = 1.0E-4
+	#Player altitude factor.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	playerAltitudeFactor = 10.0
+
+["Horizontal Waves"]
+	#Wave octave of the aurora.
+	#Range: > 0
+	auroraWaveOctaves = 2
+	#Wave amplitude of the aurora.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraWaveAmplitude = 1.25
+	#Wave frequency of the aurora.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraWaveFrequency = 200.0
+	#Wave speed of the aurora.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraWaveSpeed = 1.0E-6
+
+["Vertical Waves"]
+	#Wave height octave of the aurora.
+	#Range: > 0
+	auroraHeightOctaves = 1
+	#Wave height frequency of the aurora.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraHeightFrequency = 100.0
+	#Wave height speed of the aurora.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraHeightSpeed = 1.0E-5
+	#Wave height amplitude of the top aurora horizon.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraHeightAmplitudeTop = 50000.0
+	#Wave height amplitude of the middle aurora horizon.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraHeightAmplitudeMid = 4000.0
+	#Wave height amplitude of the lower aurora horizon.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraHeightAmplitudeLower = 1000.0
+
+["Aurora Count"]
+	#Aurora count octaves.
+	#Range: > 0
+	auroraAmountOctaves = 3
+	#Aurora count amplitude. Defines the max potential amount of auroras at once or a given time.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraAmountAmplitude = 1.0
+
+[Size]
+	#Aurora distance factor.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraDistanceFactor = 50.0
+	#Aurora width.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraWidth = 1.0
+	#Aurora height.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	auroraHeight = 0.1
+	#Extra lower horizon size factor.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	blueLayerFactorExtra = 0.5
+	#Extra top horizon size factor.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	redLayerFactorExtra = 2.0
+	#Top aurora horizon size factor.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	redLayerFactor = 2.0
+	#middle aurora horizon size factor.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	greenLayerFactor = 6.0
+	#Lower aurora horizon size factor.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	blueLayerFactor = -1.0
+
+[Colors]
+	#How fast should the color cycle change for the top horizon? Lower = faster.
+	#Range: > 1
+	topColorCycle = 1200
+	#How fast should the color cycle change for the middle horizon? Lower = faster.
+	#Range: > 1
+	midColorCycle = 1200
+	#How fast should the color cycle change for the bottom horizon? Lower = faster.
+	#Range: > 1
+	lowerColorCycle = 1200
+	#How fast should the color intensity change for the top horizon? Lower = slower.
+	#Range: > 0
+	topColorOctaves = 2
+	#How fast should the color intensity change for the middle horizon? Lower = slower.
+	#Range: > 0
+	midColorOctaves = 3
+	#How fast should the color intensity change for the bottom horizon? Lower = slower.
+	#Range: > 0
+	lowerColorOctaves = 1
+	#Min HSB color of the top section of the auroras. Value is HSB color fraction. Default is red band.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	topColorHSBMin = -0.07
+	#Max HSB color of the top section of the auroras. Value is HSB color fraction. Default is red band.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	topColorHSBMax = 0.06
+	#Min HSB color of the middle section of the auroras. Value is HSB color fraction. Default is green band.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	midColorHSBMin = 0.22
+	#Max HSB color of the middle section of the auroras. Value is HSB color fraction. Default is green band.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	midColorHSBMax = 0.41
+	#Min HSB color of the lower section of the auroras. Value is HSB color fraction. Default is blue-purple band.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	lowerColorHSBMin = 0.6
+	#Max HSB color of the lower section of the auroras. Value is HSB color fraction. Default is blue-purple band.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	lowerColorHSBMax = 0.88

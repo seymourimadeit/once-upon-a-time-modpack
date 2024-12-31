@@ -1,0 +1,13 @@
+name = "Particles +"
+filename = "Particles+ V.1.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb857163af0113bab3443ad19ede900ae8778899"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5743905
+project-id = 506496

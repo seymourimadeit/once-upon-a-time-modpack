@@ -1,0 +1,13 @@
+name = "Friendermite"
+filename = "Friendermite_NEOFORGE_v1.0.6_mc1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fcb289bd659a8891c2184409ac898aeb4f309b5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5434808
+project-id = 350337

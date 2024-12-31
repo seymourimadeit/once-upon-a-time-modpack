@@ -1,0 +1,13 @@
+name = "Infested: Swarms and Spiders"
+filename = "infested_swarms_spiders-2.1.0-neoforge-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49730fb1cc8d00c1126a88c3b30a8fbd332b32bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5848700
+project-id = 1035796

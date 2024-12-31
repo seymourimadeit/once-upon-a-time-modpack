@@ -1,0 +1,13 @@
+name = "Train's Tweaks"
+filename = "trains_tweaks-neoforge-1.21.1-0.9.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0eac5eec80ce7755897aa4d16672415e2216298b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6035500
+project-id = 1161890

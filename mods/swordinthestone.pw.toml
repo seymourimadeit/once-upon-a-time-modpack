@@ -1,0 +1,13 @@
+name = "Sword in the Stone"
+filename = "swordinthestone-2.2-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc3da1d2df1885932241963aa59ea4e218570a76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5593646
+project-id = 889680

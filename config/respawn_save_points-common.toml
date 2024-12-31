@@ -1,0 +1,10 @@
+"Save xp along with inventory" = true
+"Transfer lost durability" = true
+"Transfer all item data to unsaved items of the same type as their saved counterpart" = true
+"Items that cannot be saved via beds or respawn anchors" = ["mekanism:cardboard_box"]
+"Show saved items message" = true
+"Show excluded items message" = true
+# Default: 1.0
+# Range: 0.0 ~ 5.0E11
+"% of items kept after dying" = 1.0
+"Drop items still" = true

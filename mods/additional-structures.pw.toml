@@ -1,0 +1,13 @@
+name = "Additional Structures"
+filename = "AdditionalStructures-1.21-(v.6.0.1-NEO).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99fb89b52443f75d9222eeea52be7a3ef3f6c523"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5693344
+project-id = 297680

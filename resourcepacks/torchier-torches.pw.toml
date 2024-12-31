@@ -1,0 +1,13 @@
+name = "Torchier Torches"
+filename = "Torchier Torches.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4de33b371fc89f1997219b5ae523e398d6096a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5837648
+project-id = 1089026

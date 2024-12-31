@@ -1,0 +1,13 @@
+name = "Skin Restorer"
+filename = "skinrestorer-2.2.1+1.21-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b19e2c600a70c963eb5f3b1bd20b80c0907c321"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6015934
+project-id = 443823

@@ -1,0 +1,13 @@
+name = "Carpets Core"
+filename = "carpetscore-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aadb77783f6ae687eb023835a643e36963f79047"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5908944
+project-id = 1140721

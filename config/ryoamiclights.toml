@@ -1,0 +1,592 @@
+[light_sources]
+	water_sensitive_check = true
+	self = true
+	block_entities = true
+	entities = true
+[light_sources]
+	water_sensitive_check = true
+	self = true
+	block_entities = true
+	entities = true
+
+			[light_sources.settings.entities.minecraft]
+				dolphin = true
+				chicken = true
+				item = true
+				axolotl = true
+				cow = true
+				tropical_fish = true
+				chest_minecart = true
+				pig = true
+				skeleton = true
+				bat = true
+				zombie = true
+				glow_squid = true
+				squid = true
+				spider = true
+				sheep = true
+				creeper = true
+				player = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				starbuncle = true
+				whirlisprig = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				dark_oak_enderman = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.distantfriends]
+				friend = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				dripstone_creeper = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+
+			[light_sources.settings.entities.earthmobsmod]
+				jumbo_rabbit = true
+				hyper_rabbit = true
+				lobber_zombie = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+[light_sources]
+	water_sensitive_check = true
+	self = true
+	block_entities = true
+	entities = true
+
+			[light_sources.settings.entities.minecraft]
+				dolphin = true
+				chicken = true
+				item = true
+				axolotl = true
+				cow = true
+				tropical_fish = true
+				chest_minecart = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				bat = true
+				zombie = true
+				glow_squid = true
+				squid = true
+				spider = true
+				sheep = true
+				creeper = true
+				player = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				starbuncle = true
+				whirlisprig = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				dark_oak_enderman = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.distantfriends]
+				friend = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				dripstone_creeper = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+
+			[light_sources.settings.entities.earthmobsmod]
+				jumbo_rabbit = true
+				hyper_rabbit = true
+				lobber_zombie = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+[light_sources]
+	water_sensitive_check = true
+	self = true
+	block_entities = true
+	entities = true
+
+			[light_sources.settings.entities.minecraft]
+				dolphin = true
+				chicken = true
+				item = true
+				axolotl = true
+				cow = true
+				tropical_fish = true
+				chest_minecart = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				bat = true
+				zombie = true
+				glow_squid = true
+				squid = true
+				drowned = true
+				spider = true
+				sheep = true
+				creeper = true
+				player = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				starbuncle = true
+				whirlisprig = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				dark_oak_enderman = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.distantfriends]
+				friend = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				dripstone_creeper = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+
+			[light_sources.settings.entities.earthmobsmod]
+				jumbo_rabbit = true
+				hyper_rabbit = true
+				lobber_zombie = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+[light_sources]
+	water_sensitive_check = true
+	self = true
+	block_entities = true
+	entities = true
+
+			[light_sources.settings.entities.minecraft]
+				dolphin = true
+				chicken = true
+				item = true
+				axolotl = true
+				cow = true
+				tropical_fish = true
+				chest_minecart = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				bat = true
+				zombie = true
+				glow_squid = true
+				cod = true
+				squid = true
+				drowned = true
+				spider = true
+				sheep = true
+				creeper = true
+				player = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				starbuncle = true
+				whirlisprig = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				dark_oak_enderman = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.distantfriends]
+				friend = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				dripstone_creeper = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+
+			[light_sources.settings.entities.earthmobsmod]
+				jumbo_rabbit = true
+				hyper_rabbit = true
+				lobber_zombie = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+[light_sources]
+	water_sensitive_check = true
+	self = true
+	block_entities = true
+	entities = true
+
+			[light_sources.settings.entities.minecraft]
+				dolphin = true
+				chicken = true
+				item = true
+				axolotl = true
+				cow = true
+				tropical_fish = true
+				chest_minecart = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				bat = true
+				zombie = true
+				glow_squid = true
+				cod = true
+				squid = true
+				drowned = true
+				spider = true
+				sheep = true
+				creeper = true
+				player = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				starbuncle = true
+				whirlisprig = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				dark_oak_enderman = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.distantfriends]
+				friend = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				dark_oak_creeper = true
+				dripstone_creeper = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+
+			[light_sources.settings.entities.earthmobsmod]
+				jumbo_rabbit = true
+				hyper_rabbit = true
+				lobber_zombie = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+[light_sources]
+	water_sensitive_check = true
+	self = true
+	block_entities = true
+	entities = true
+
+			[light_sources.settings.entities.minecraft]
+				dolphin = true
+				chicken = true
+				item = true
+				axolotl = true
+				cow = true
+				tropical_fish = true
+				chest_minecart = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				bat = true
+				zombie = true
+				glow_squid = true
+				cod = true
+				squid = true
+				drowned = true
+				spider = true
+				sheep = true
+				creeper = true
+				player = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				starbuncle = true
+				whirlisprig = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				dark_oak_enderman = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.distantfriends]
+				friend = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				dark_oak_creeper = true
+				dripstone_creeper = true
+				birch_creeper = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+
+			[light_sources.settings.entities.earthmobsmod]
+				jumbo_rabbit = true
+				hyper_rabbit = true
+				lobber_zombie = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+[light_sources]
+	water_sensitive_check = true
+	self = true
+	block_entities = true
+	entities = true
+
+			[light_sources.settings.entities.minecraft]
+				dolphin = true
+				chicken = true
+				item = true
+				axolotl = true
+				cow = true
+				tropical_fish = true
+				chest_minecart = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				bat = true
+				zombie = true
+				glow_squid = true
+				cod = true
+				squid = true
+				drowned = true
+				spider = true
+				sheep = true
+				creeper = true
+				player = true
+				enderman = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				starbuncle = true
+				whirlisprig = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				dark_oak_enderman = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.distantfriends]
+				friend = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				beach_creeper = true
+				dark_oak_creeper = true
+				dripstone_creeper = true
+				birch_creeper = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+
+			[light_sources.settings.entities.earthmobsmod]
+				jumbo_rabbit = true
+				hyper_rabbit = true
+				lobber_zombie = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+[light_sources]
+	water_sensitive_check = true
+	self = true
+	block_entities = true
+	entities = true
+
+			[light_sources.settings.entities.minecraft]
+				dolphin = true
+				chicken = true
+				item = true
+				axolotl = true
+				cow = true
+				tropical_fish = true
+				chest_minecart = true
+				magma_cube = true
+				pig = true
+				pillager = true
+				skeleton = true
+				bat = true
+				evoker = true
+				zombie = true
+				glow_squid = true
+				cod = true
+				squid = true
+				drowned = true
+				spider = true
+				sheep = true
+				creeper = true
+				player = true
+				enderman = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				starbuncle = true
+				whirlisprig = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				dark_oak_enderman = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.distantfriends]
+				friend = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				beach_creeper = true
+				dark_oak_creeper = true
+				dripstone_creeper = true
+				birch_creeper = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+
+			[light_sources.settings.entities.earthmobsmod]
+				jumbo_rabbit = true
+				hyper_rabbit = true
+				lobber_zombie = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+[light_sources]
+	water_sensitive_check = true
+	self = true
+	block_entities = true
+	entities = true
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				axolotl = true
+				cow = true
+				tropical_fish = true
+				chest_minecart = true
+				magma_cube = true
+				pig = true
+				pillager = true
+				skeleton = true
+				bat = true
+				zombie = true
+				drowned = true
+				sheep = true
+				player = true
+				dolphin = true
+				item = true
+				wandering_trader = true
+				zombie_villager = true
+				minecart = true
+				evoker = true
+				glow_squid = true
+				cod = true
+				squid = true
+				spider = true
+				creeper = true
+				enderman = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				starbuncle = true
+				whirlisprig = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				dark_oak_enderman = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.distantfriends]
+				friend = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				beach_creeper = true
+				ocean_creeper = true
+				dark_oak_creeper = true
+				dripstone_creeper = true
+				birch_creeper = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+
+			[light_sources.settings.entities.earthmobsmod]
+				jumbo_rabbit = true
+				skeleton_wolf = true
+				hyper_rabbit = true
+				tropical_slime = true
+				bouldering_zombie = true
+				bone_spider = true
+				lobber_zombie = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+[light_sources]
+	water_sensitive_check = true
+	self = true
+	block_entities = true
+	entities = true
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				axolotl = true
+				cow = true
+				tropical_fish = true
+				chest_minecart = true
+				magma_cube = true
+				pig = true
+				pillager = true
+				skeleton = true
+				bat = true
+				zombie = true
+				drowned = true
+				sheep = true
+				player = true
+				dolphin = true
+				item = true
+				wandering_trader = true
+				zombie_villager = true
+				vindicator = true
+				minecart = true
+				evoker = true
+				glow_squid = true
+				cod = true
+				squid = true
+				spider = true
+				creeper = true
+				enderman = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				starbuncle = true
+				whirlisprig = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				dark_oak_enderman = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.distantfriends]
+				friend = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				beach_creeper = true
+				ocean_creeper = true
+				dark_oak_creeper = true
+				dripstone_creeper = true
+				birch_creeper = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+
+			[light_sources.settings.entities.earthmobsmod]
+				jumbo_rabbit = true
+				skeleton_wolf = true
+				zombified_rabbit = true
+				hyper_rabbit = true
+				tropical_slime = true
+				bouldering_zombie = true
+				bone_spider = true
+				lobber_zombie = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true

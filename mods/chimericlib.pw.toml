@@ -1,0 +1,13 @@
+name = "ChimericLib"
+filename = "chimericlib-neoforge-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a39880ec0d34bff1b8fd1bb4448394c826a5bff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5943320
+project-id = 1107232

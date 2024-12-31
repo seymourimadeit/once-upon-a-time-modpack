@@ -1,0 +1,6 @@
+#Should the dragon be controlled by the camera during flight?
+camera_flight = true
+#Should dismounting the dragon require double pressing the dismount button? Disabling this will not allow using sneak or the dismount button to descend.
+alternate_dismount = true
+#Should dragon attacks require holding down the dragon attack key?
+alternate_attack_key = true

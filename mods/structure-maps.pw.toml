@@ -1,0 +1,13 @@
+name = "Structure Maps"
+filename = "structuremaps-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3997e5f44f9782b7f801c538b303ab7ab4ac8ae0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5435429
+project-id = 1038282

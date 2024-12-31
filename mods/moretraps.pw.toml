@@ -1,0 +1,13 @@
+name = "MoreTraps"
+filename = "moretraps-neoforge-1.21-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da5466a8305f1bc306605c4205fc66577f1fbd45"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5870261
+project-id = 1125615

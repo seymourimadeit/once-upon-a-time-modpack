@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "TallestEgg",
+      "uniqueId": "3ec71323-f2af-4432-9ca1-41c221e3760d"
+    },
+    "time": 1735026381733,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/mrei0PZFtV"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "TallestEgg",
+      "uniqueId": "3ec71323-f2af-4432-9ca1-41c221e3760d"
+    },
+    "time": 1732583482960,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/KOtwnmPvWf"
+    }
+  }
+]

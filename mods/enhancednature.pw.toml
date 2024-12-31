@@ -1,0 +1,13 @@
+name = "Enhanced Nature"
+filename = "EnhancedNature-1.21-(v.3.0.0-NEO).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e53d4ae65bbd3065ea3e7ebf4f465b2cfa150a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5695860
+project-id = 556321

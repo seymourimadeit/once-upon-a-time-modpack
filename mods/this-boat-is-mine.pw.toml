@@ -1,0 +1,13 @@
+name = "This boat is MINE!"
+filename = "tbim-neoforge-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "245611c710391b7a554ffadaee269320242117f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5714393
+project-id = 884043

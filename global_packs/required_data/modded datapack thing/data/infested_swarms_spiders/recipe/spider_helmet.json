@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:cobweb"
+  },
+  "base": {
+    "item": "minecraft:leather_helmet"
+  },
+  "result": {
+    "count": 1,
+    "id": "infested_swarms_spiders:spider_helmet"
+  },
+  "template": {
+    "item": "infested_swarms_spiders:spider_template"
+  }
+}

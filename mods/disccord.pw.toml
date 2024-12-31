@@ -1,0 +1,13 @@
+name = "DiscCord"
+filename = "DiscCord-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9397ec596c65177f0434a2be7596cbc22f915b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5864178
+project-id = 1071883

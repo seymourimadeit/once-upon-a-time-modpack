@@ -1,0 +1,13 @@
+name = "Profession Nuke"
+filename = "profession_nuke-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25599fb0485c3cda493e03769efe23f70b79da3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5804448
+project-id = 1119844

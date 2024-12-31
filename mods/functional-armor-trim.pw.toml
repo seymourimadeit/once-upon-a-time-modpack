@@ -1,0 +1,13 @@
+name = "Functional Armor Trim"
+filename = "functionalarmortrim-neoforge-1.21-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b102ac18b51de4cd435e9a4ed8398f6feae49ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5527157
+project-id = 838212

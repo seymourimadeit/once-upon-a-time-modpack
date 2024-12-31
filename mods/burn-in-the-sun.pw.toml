@@ -1,0 +1,13 @@
+name = "Burn in the Sun"
+filename = "burninthesun-neoforge-1.21-1.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62829e756fa636c3a0d5feb72cbafe57fd73cb7d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5612631
+project-id = 484945

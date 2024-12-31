@@ -1,0 +1,21 @@
+#Sword Stats
+[stats]
+	#The base damage of a sword from this mod.
+	#The weakest sword possible will have this for its attack damage.
+	#Range: 1 ~ 100
+	baseDamage = 6
+	#The amount that swords' attack damages can vary randomly.
+	#The strongest sword possible will have this added to baseDamage for its attack damage.
+	#Range: 0.0 ~ 50.0
+	maxDamageModifier = 2.5
+	#The base attack speed of a sword from this mod.
+	#The slowest sword possible will have this for its attack damage.
+	#Range: 0.0 ~ 2.0
+	baseAttackSpeed = 1.2
+	#The amount that swords' attack speeds can vary randomly.
+	#The fastest sword possible will have this added to baseAttackSpeed for its attack speed.
+	#Range: 0.0 ~ 1.0
+	maxAttackSpeedModifier = 0.6
+	#The durability of swords from this mod.A value of 0 will cause swords from this mod to be unbreakable.Client and server restart required.
+	#Range: 0 ~ 10000
+	durability = 150

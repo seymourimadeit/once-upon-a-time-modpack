@@ -1,0 +1,13 @@
+name = "UnionLib"
+filename = "UnionLib-1.21.1-12.0.9-NeoForge-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b86c35c83f8d01814bdd8083765a2be83d145db9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5997453
+project-id = 367806

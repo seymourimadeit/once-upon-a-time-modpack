@@ -1,0 +1,13 @@
+name = "Crops Love Rain"
+filename = "Crops-Love-Rain-neoforge-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d7dd1db94d58c59e31c4bfa1de90dcf7a37221c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5533813
+project-id = 580294

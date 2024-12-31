@@ -1,0 +1,13 @@
+name = "Fine Armory"
+filename = "Fine Armoury v1.3 f8-34.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d303d00ab12e613ce69818f69184dbedaf8598c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5473437
+project-id = 983707

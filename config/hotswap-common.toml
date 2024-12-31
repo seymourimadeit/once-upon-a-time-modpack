@@ -1,0 +1,10 @@
+#Allow swapping while in creative mode.
+allowInCreative = false
+#Allow swapping while in adventure mode.
+allowInAdventure = false
+#Allow swapping while in survival mode.
+allowInSurvival = true
+#Allow auto swapping for attacking.
+allowForAttacking = true
+#Allow swapping to an axe when looking for a viable attacking item.
+allowAxe = true

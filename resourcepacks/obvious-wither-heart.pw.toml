@@ -1,0 +1,13 @@
+name = "Obvious Wither Heart"
+filename = "[1.21] Obvious+Wither+Heart.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b36aa47365a3c53f4feaf4a4c3c00a66fb39b2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5674380
+project-id = 577177

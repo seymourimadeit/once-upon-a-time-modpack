@@ -1,0 +1,13 @@
+name = "Block Runner [Forge & Fabric]"
+filename = "BlockRunner-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "164c4faeaf0e00a524e2b0affddf40d257fb8950"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5711454
+project-id = 442842

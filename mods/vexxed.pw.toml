@@ -1,0 +1,13 @@
+name = "Vexxed"
+filename = "vexxed-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2f8d03c9872b7be5fc026dee81f7ada494a1f50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5737681
+project-id = 1105440

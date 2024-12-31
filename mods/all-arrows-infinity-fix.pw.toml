@@ -1,0 +1,13 @@
+name = "All Arrows Infinity Fix"
+filename = "allarrowsinfinityfix-1.7-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "deed8189554e98faf2f0c084d5ce1c8d3cc3b4b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5536663
+project-id = 543652

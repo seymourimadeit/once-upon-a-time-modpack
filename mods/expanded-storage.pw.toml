@@ -1,0 +1,13 @@
+name = "Expanded Storage"
+filename = "expandedstorage-neoforge-1.21.1-14.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "287ab573de90f0f824fe9d0fa687c6025533f170"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5974467
+project-id = 978068

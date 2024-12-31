@@ -1,0 +1,14 @@
+#Whether or not to enable any of the tweaks relating to mob drops
+"Enable drop tweaks" = false
+#Whether or not to convert the hardcoded Nether Star (that takes longer to despawn) drop to the loot table trains_tweaks:entities/extended_wither_drop
+"Convert Nether Star Drop" = true
+#Whether or not to convert the hardcoded Wither Rose drop to the loot table trains_tweaks:gameplay/wither_rose_drop
+#If enabled, any entity tagged with trains_tweaks:causes_wither_rose_drop will cause this loot table to be rolled
+#This will disable the placement of the block
+"Convert Wither Rose Drop" = false
+#Whether or not to convert the hardcoded chicken egg lay to the loot table trains_tweaks:gameplay/chicken_lay
+"Convert Chicken Egg" = true
+#Allow baby mobs to drop their standard loot table
+"Baby mobs drop loot" = false
+#Allow baby mobs to drop their standard amount of experience
+"Baby mobs drop experience" = false

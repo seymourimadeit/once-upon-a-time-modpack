@@ -1,0 +1,13 @@
+name = "Metal Bundles [Forge & Fabric]"
+filename = "MetalBundles-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26eab6b8c2d3a5c45f1901a43842984dc58b0a51"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5743837
+project-id = 891325

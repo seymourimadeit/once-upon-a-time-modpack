@@ -1,0 +1,13 @@
+name = "Distant Friends"
+filename = "DistantFriends-neoforge-1.21.1-0.9.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45ef6d9cea984d53cd9754a61f832e66c78549ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5805883
+project-id = 839197

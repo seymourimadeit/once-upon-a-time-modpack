@@ -1,0 +1,13 @@
+name = "Sword Displays"
+filename = "sworddisplay-neoforge-1.21-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93632d5684e3c5c586a795947485f686f1019e54"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5514737
+project-id = 392762

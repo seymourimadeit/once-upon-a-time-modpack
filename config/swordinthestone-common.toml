@@ -1,0 +1,116 @@
+#Sword Stone Settings
+[sword_stone]
+	#Whether sword stones should show a beacon beam every so often to alert players to their location.
+	swordBeaconEnabled = true
+	#Add the ids of sword abilities here to disabled them. Ex. "swordinthestone:thunder_smite"
+	disabledAbilities = []
+	#The average distance (in chunks) between sword stones in the Overworld.
+	# Default: 40
+	# Range: 0 ~ 4096
+	swordStoneSpacingOverworld = 40
+	#The minimum distance (in chunks) between sword stones in the Overworld.
+	#Must be smaller than swordStoneSpacingOverworld.
+	# Default: 15
+	# Range: 0 ~ 4096
+	swordStoneSeparationOverworld = 15
+	#The average distance (in chunks) between sword stones in the End.
+	# Default: 40
+	# Range: 0 ~ 4096
+	swordStoneSpacingEnd = 40
+	#The minimum distance (in chunks) between sword stones in the End.
+	#Must be smaller than swordStoneSpacingEnd.
+	# Default: 15
+	# Range: 0 ~ 4096
+	swordStoneSeparationEnd = 15
+	#The average distance (in chunks) between sword stones in the Nether.
+	# Default: 35
+	# Range: 0 ~ 4096
+	swordStoneSpacingNether = 35
+	#The minimum distance (in chunks) between sword stones in the Nether.
+	#Must be smaller than swordStoneSpacingNether.
+	# Default: 10
+	# Range: 0 ~ 4096
+	swordStoneSeparationNether = 10
+
+#Sword Ability Settings
+[abilities]
+	#The number of hits with a Thunder Smite sword before the sword becomes electrically charged.
+	# Default: 3
+	# Range: 1 ~ 10
+	thunderSmiteCharges = 3
+	#The percentage of a killed entity's max health that the Vampiric ability will heal its user.
+	# Default: 0.15
+	# Range: 0.01 ~ 2.0
+	vampiricHealthPercent = 0.15
+	#The maximum amount of health that the Vampiric ability can heal.
+	# Default: 10
+	# Range: 1 ~ 1000
+	vampiricHealthCap = 10
+	#The cooldown (in ticks) of the Toxic Dash ability.
+	# Default: 200
+	# Range: 0 ~ 10000
+	toxicDashCooldown = 200
+	#The cooldown (in ticks) of the Ender Rift ability.
+	#Must be longer than enderRiftDuration.
+	# Default: 200
+	# Range: 0 ~ 10000
+	enderRiftCooldown = 200
+	#The duration (in ticks) that the Ender Rift entity lasts for after creation.
+	#Client and server restart required.
+	# Default: 60
+	# Range: 10 ~ 200
+	enderRiftDuration = 60
+	#The cooldown (in ticks) of the Fireball ability.
+	# Default: 200
+	# Range: 0 ~ 10000
+	fireballCooldown = 200
+	#Whether the Fireball ability will destroy blocks with it explodes.
+	fireballDestroyBlocks = true
+	#Whether the Fireball ability will set fire when it explodes.
+	fireballSetFire = true
+	#The maximum power of the Fireball ability.
+	#This value must be evenly divisible by fireballChargeRate or else the actual max power could be slightly off.
+	# Default: 4.0
+	# Range: 1.0 ~ 100.0
+	fireballMaxPower = 4.0
+	#The increase in power each tick that you use the Fireball ability.
+	#Note that the fireball will grow at twice this rate for the first half of the max power.
+	# Default: 0.04
+	# Range: 0.01 ~ 1.0
+	fireballChargeRate = 0.04
+	#Whether you can use the Double Jump ability while riding a vehicle.
+	#This feature is pretty buggy, but also pretty fun.
+	doubleJumpVehicle = false
+	#The chance that you will receive a status effect upon killing a mob with the Alchemist abiliy.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	alchemistSelfChance = 0.5
+	#The chance that you will inflict a status effect on a mob upon hitting it with the Alchemist abiliy.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	alchemistVictimChance = 0.5
+	#The cooldown (in ticks) of the Bat Swarm ability.
+	# Default: 200
+	# Range: 0 ~ 10000
+	batSwarmCooldown = 200
+	#The average length of time (in ticks) that the Bat Swarm ability will last.
+	# Default: 60
+	# Range: 10 ~ 10000
+	batSwarmDuration = 60
+	#The average length of time (in ticks) that the Bat Swarm ability will last.
+	# Default: 2.0
+	# Range: 0.0 ~ 100.0
+	batSwarmDamage = 2.0
+	#The maximum amount of charge that a sword can hold.
+	#1 unit of charge is used each tick when holding right click.
+	# Default: 400
+	# Range: 1 ~ 10000
+	vortexChargeCapacity = 400
+	#The amount of charge gained per each fully charged hit on a mob.
+	# Default: 50
+	# Range: 1 ~ 10000
+	vortexChargePerHit = 50
+	#The amount of damage dealt to mobs by Vortex Charge's shift-right-click ability.
+	# Default: 12.0
+	# Range: 0.0 ~ 100.0
+	vortexChargeDamage = 12.0

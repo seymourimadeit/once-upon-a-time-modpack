@@ -1,0 +1,16 @@
+{
+  "values": {
+    "minecraft:husk": {
+      "weight": 100
+    },
+    "minecraft:silverfish": {
+      "weight": 100
+    },
+    "minecraft:witch": {
+      "weight": 100
+    },
+    "minecraft:enderman": {
+      "weight": 100
+    }
+  }
+}

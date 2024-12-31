@@ -1,0 +1,13 @@
+name = "Pretty Beaches"
+filename = "prettybeaches-neoforge-1.21.1-21.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6482f0611eaa874c21f555a54c4ccc3d0a23ef50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5853248
+project-id = 290659

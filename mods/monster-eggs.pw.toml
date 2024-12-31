@@ -1,0 +1,13 @@
+name = "Monster Eggs"
+filename = "MonsterEggs-1.21-6.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b0788cfc46a6d69bc9a1a4dc8a15855b044038b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5479960
+project-id = 579059

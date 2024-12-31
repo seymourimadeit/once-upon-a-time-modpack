@@ -1,0 +1,13 @@
+name = "Patched"
+filename = "Patched-7.3.3+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb07e07cc67c219e8b7d4e050690d2a5e9d614f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6018026
+project-id = 689918

@@ -1,0 +1,16 @@
+[general]
+	fasciatedDandelionDropsNormalDandelionWhenUsingBoneMeal = true
+	fasciatedOxeyeDaisyDropsNormalOxeyeDaisyWhenUsingBoneMeal = true
+	# Default: 0.4
+	# Range: 0.0 ~ 1.0
+	dandelionFasciationChance = 0.4
+	# Default: 0.4
+	# Range: 0.0 ~ 1.0
+	oxeyeDaisyFasciationChance = 0.4
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	creepansyConvertChance = 1.0
+	# Default: 0.45
+	# Range: 0.0 ~ 1.0
+	jadeVineGrowChance = 0.45
+	additionalWandererTrades = true

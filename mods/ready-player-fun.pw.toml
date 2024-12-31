@@ -1,0 +1,13 @@
+name = "Ready Player Fun - Server Pause Utility"
+filename = "readyplayerfun-1.21.1-3.0.0.0-NEOFORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc006387a69b4c04936f4d69ec0e01809ea9773a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5863639
+project-id = 322036

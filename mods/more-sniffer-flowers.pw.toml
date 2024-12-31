@@ -1,0 +1,13 @@
+name = "More Sniffer Flowers"
+filename = "MoreSnifferFlowers-1.21-neo-1.5_Beta1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e37fea4d6506d2e52835a0bfb1d6b0a11375b7c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6025914
+project-id = 884119

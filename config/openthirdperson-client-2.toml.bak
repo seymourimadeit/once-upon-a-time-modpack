@@ -1,0 +1,8 @@
+#Use lock third person cam
+lock_cam = true
+#How far away the third person camera should be
+#Range: -64.0 ~ 64.0
+cam_dist = 4.0
+#Sensitivity of the camera
+#Range: 0.0 ~ 64.0
+cam_sens = 1.0

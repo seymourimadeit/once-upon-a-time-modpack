@@ -1,0 +1,13 @@
+name = "Bottle Your Xp"
+filename = "bottleyourxp-1.21.1-3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4009d078ac30f271d55d4882b9ad8809a09697e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5609810
+project-id = 344020

@@ -1,0 +1,770 @@
+{
+	autofocus_id: "4FB74680172A83AF"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_beginning"
+	group: ""
+	icon: {
+		id: "lifesteal:heart_crystal"
+	}
+	id: "4F17AE0C65F1F6C5"
+	order_index: 0
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["352201DF0D7A8704"]
+			id: "2CDC0FDDFB3CA319"
+			progression_mode: "linear"
+			rewards: [{
+				id: "64B7F790FB3070FA"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				count: 10L
+				id: "1566BA8D23BA31FB"
+				item: { count: 10, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["352201DF0D7A8704"]
+			icon_scale: 2.0d
+			id: "237DB0C4030ABD37"
+			rewards: [{
+				id: "50A5A855535FA29A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3AD13FE5E610252B"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(minecraft:beds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["11E3A8E50E7F54B8"]
+			hide_dependency_lines: false
+			id: "21D7C301F5ACC45E"
+			rewards: [{
+				id: "238B18B8D423DCB6"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [
+				{
+					id: "6CA2A1C978FAF7AE"
+					item: { count: 1, id: "modern_industrialization:bronze_water_pump" }
+					type: "item"
+				}
+				{
+					id: "4B0CD97C5766BD4D"
+					item: { count: 1, id: "modern_industrialization:bronze_compressor" }
+					type: "item"
+				}
+				{
+					id: "1D189D221B82643F"
+					item: { count: 1, id: "modern_industrialization:bronze_macerator" }
+					type: "item"
+				}
+				{
+					id: "13A2B348AFE13EDC"
+					item: { count: 1, id: "modern_industrialization:bronze_cutting_machine" }
+					type: "item"
+				}
+				{
+					id: "39622D33953DE892"
+					item: { count: 1, id: "modern_industrialization:bronze_boiler" }
+					type: "item"
+				}
+				{
+					id: "0948CEF42833767D"
+					item: { count: 1, id: "modern_industrialization:bronze_furnace" }
+					type: "item"
+				}
+				{
+					id: "415622D8641451DC"
+					item: { count: 1, id: "modern_industrialization:bronze_mixer" }
+					type: "item"
+				}
+				{
+					id: "571AEBDBE5F67A5E"
+					item: { count: 1, id: "modern_industrialization:wrench" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["07CBA2AB72BC8348"]
+			id: "08C17527485D5B6E"
+			rewards: [
+				{
+					id: "20E65997C9211A75"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 5
+					id: "07E07D344853BF5D"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 7L
+					id: "04412B0E2ACBCBC8"
+					item: { count: 1, id: "modern_industrialization:steel_upgrade" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "379D89FDF2B75AF9"
+					item: { count: 2, id: "modern_industrialization:steel_fluid_input_hatch" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7C5ED42AD81AF305"
+					item: { count: 2, id: "modern_industrialization:steel_fluid_output_hatch" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "742B92A26043AEF0"
+					item: { count: 2, id: "modern_industrialization:steel_item_input_hatch" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7BE11BDE2F42179C"
+					item: { count: 2, id: "modern_industrialization:steel_item_output_hatch" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["08C17527485D5B6E"]
+			id: "119B377D68760DA5"
+			rewards: [
+				{
+					id: "51499B7BC84A004A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 3
+					id: "5AC6F7D37D18E344"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "3FF0A3AC28B0C0B1"
+					item: { count: 1, id: "modern_industrialization:steam_quarry" }
+					type: "item"
+				}
+				{
+					count: 13L
+					id: "000D0BB8A9CCCB12"
+					item: { count: 16, id: "modern_industrialization:steel_machine_casing" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "601C0EC6C9793D6B"
+					item: { count: 4, id: "minecraft:chain" }
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "5E61069E9B8DFB14"
+					item: { count: 4, id: "modern_industrialization:steel_machine_casing_pipe" }
+					type: "item"
+				}
+				{
+					id: "64A2EA1181BA0492"
+					item: { count: 1, id: "modern_industrialization:steel_fluid_input_hatch" }
+					type: "item"
+				}
+				{
+					id: "09A51C8BB08F3CED"
+					item: { count: 1, id: "modern_industrialization:steel_item_output_hatch" }
+					type: "item"
+				}
+				{
+					id: "489B5663B6CE0357"
+					item: { count: 1, id: "modern_industrialization:steel_item_input_hatch" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "458C7237D5EF90F7"
+					item: { count: 4, id: "modern_industrialization:bronze_drill" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2CDC0FDDFB3CA319"]
+			id: "11E3A8E50E7F54B8"
+			rewards: [{
+				id: "0F9CE9C571966B82"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "7AA76439BC755D14"
+				item: { count: 1, id: "modern_industrialization:forge_hammer" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["237DB0C4030ABD37"]
+			id: "5CD26C97233DBCCD"
+			rewards: [{
+				id: "731B1B734075586D"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					id: "267DC2B40E01F949"
+					item: { count: 1, id: "minecraft:leather_helmet" }
+					type: "item"
+				}
+				{
+					id: "2D4E7A434BB18877"
+					item: { count: 1, id: "minecraft:leather_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5AFA0692E5A72AF7"
+					item: { count: 1, id: "minecraft:leather_leggings" }
+					type: "item"
+				}
+				{
+					id: "341BFC059A6ED648"
+					item: { count: 1, id: "minecraft:leather_boots" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5CD26C97233DBCCD"]
+			id: "1CD2A149869EDEFC"
+			rewards: [{
+				id: "53783B6D1BD40112"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "79873531B649095A"
+					item: { count: 1, id: "minecraft:chainmail_helmet" }
+					type: "item"
+				}
+				{
+					id: "070083DCE3DA07A4"
+					item: { count: 1, id: "minecraft:chainmail_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5FC8C3BCAD062A0B"
+					item: { count: 1, id: "minecraft:chainmail_leggings" }
+					type: "item"
+				}
+				{
+					id: "469A8602BD6C447B"
+					item: { count: 1, id: "minecraft:chainmail_boots" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"08C17527485D5B6E"
+				"1CD2A149869EDEFC"
+			]
+			id: "604635AF9C133504"
+			rewards: [{
+				id: "2766EC7A7E63BC65"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				count: 4L
+				id: "6FD44CD5DE2AF394"
+				item: { count: 4, id: "kubejs:iron_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["21D7C301F5ACC45E"]
+			hide_dependency_lines: false
+			id: "21629D5495843986"
+			rewards: [{
+				id: "4FEB33CF385254CD"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "2F739B2C8E8C47C4"
+				item: { count: 1, id: "ars_nouveau:novice_spell_book" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: false
+			icon_scale: 1.6d
+			id: "4FB74680172A83AF"
+			rewards: [{
+				id: "49CB7D9E6E6AD6CB"
+				item: {
+					count: 1
+					id: "ftbquests:book"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				icon: {
+					id: "minecraft:cake"
+				}
+				id: "37FC1B938DD59ED2"
+				optional_task: true
+				type: "custom"
+			}]
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["21D7C301F5ACC45E"]
+			id: "277A62AAD6DB9C42"
+			rewards: [{
+				id: "168925238B4F3F26"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					id: "284536A77C53FA3D"
+					item: { count: 1, id: "modern_industrialization:coke_oven" }
+					type: "item"
+				}
+				{
+					id: "32F2DB4F7674AF46"
+					item: { count: 1, id: "modern_industrialization:bronze_fluid_input_hatch" }
+					type: "item"
+				}
+				{
+					id: "0D01FAB737966EAB"
+					item: { count: 1, id: "modern_industrialization:bronze_item_output_hatch" }
+					type: "item"
+				}
+				{
+					id: "472B091B49B6C073"
+					item: { count: 1, id: "modern_industrialization:bronze_item_input_hatch" }
+					type: "item"
+				}
+				{
+					count: 24L
+					id: "6C33E6522468A918"
+					item: { count: 24, id: "minecraft:bricks" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["21629D5495843986"]
+			id: "08FF61749DF39D43"
+			rewards: [{
+				id: "5AD72BD7E99AC240"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "5DC4E47D3E4DDE6C"
+					item: { count: 1, id: "ars_nouveau:imbuement_chamber" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "362CAC685890707C"
+					item: { count: 3, id: "ars_nouveau:arcane_pedestal" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["21629D5495843986"]
+			id: "7EF6A833660D175E"
+			rewards: [{
+				id: "652377A66A2B1728"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "61BEF94E2047D1BF"
+					item: { count: 1, id: "ars_nouveau:scribes_table" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "796E134EB532ED76"
+					item: { count: 5, id: "ars_nouveau:blank_parchment" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["21629D5495843986"]
+			id: "2FA134E3564EC4AB"
+			rewards: [{
+				id: "24395B5ADD3CAE3B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "0B5E0A41A304F1C9"
+					item: { count: 1, id: "ars_nouveau:enchanting_apparatus" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6908A41615CDDC35"
+					item: { count: 8, id: "ars_nouveau:arcane_pedestal" }
+					type: "item"
+				}
+				{
+					id: "6218AB59E6C8B362"
+					item: { count: 1, id: "ars_nouveau:arcane_core" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["21629D5495843986"]
+			id: "0E7DDCCCAC2D8AF0"
+			rewards: [{
+				id: "3B17DC29D24971B1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "47335AC84A397DC9"
+					item: { count: 1, id: "ars_nouveau:agronomic_sourcelink" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "299258FB4263B054"
+					item: { count: 3, id: "ars_nouveau:source_jar" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["277A62AAD6DB9C42"]
+			id: "07CBA2AB72BC8348"
+			rewards: [{
+				id: "2055937930FDA004"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "47DA177D29917BF3"
+					item: { count: 1, id: "modern_industrialization:steam_blast_furnace" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "04194243EB4FFA80"
+					item: { count: 32, id: "modern_industrialization:fire_clay_bricks" }
+					type: "item"
+				}
+				{
+					id: "73403512976E8D90"
+					item: { count: 1, id: "modern_industrialization:bronze_fluid_input_hatch" }
+					type: "item"
+				}
+				{
+					id: "29068344AB7EF7B1"
+					item: { count: 1, id: "modern_industrialization:bronze_fluid_output_hatch" }
+					type: "item"
+				}
+				{
+					id: "1919F148598F1478"
+					item: { count: 1, id: "modern_industrialization:bronze_item_input_hatch" }
+					type: "item"
+				}
+				{
+					id: "2A959F1C14368EFF"
+					item: { count: 1, id: "modern_industrialization:bronze_item_output_hatch" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "5259C302B84E992B"
+					item: { count: 3, id: "minecraft:diamond" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["604635AF9C133504"]
+			id: "758BD6C0D6D08AB7"
+			rewards: [{
+				id: "67D419455DA61027"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "2F3C5B923B059039"
+				item: { count: 1, id: "endrem:evil_eye" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["604635AF9C133504"]
+			id: "1F0589F10F9239F4"
+			rewards: [{
+				id: "1981377A583B43DF"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "5CE225F476E89DFA"
+				item: { count: 1, id: "endrem:lost_eye" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2CDC0FDDFB3CA319"]
+			id: "3A80B7EF47455828"
+			rewards: [{
+				id: "5B2457FBA959D11E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "65897419E154E5F9"
+				item: { count: 1, id: "lifesteal:heart_crystal" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			id: "352201DF0D7A8704"
+			rewards: [{
+				id: "2E1E0560E7CC603A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "12893F6D9F7396B4"
+					item: { count: 1, id: "minecraft:brush" }
+					type: "item"
+				}
+				{
+					id: "60FDB4002942A89E"
+					item: { count: 1, id: "copper_reforged:copper_sword" }
+					type: "item"
+				}
+				{
+					id: "6BF0AF40B455EA01"
+					item: { count: 1, id: "copper_reforged:copper_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "41226F9E7F43C8AA"
+					item: { count: 1, id: "copper_reforged:copper_axe" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["352201DF0D7A8704"]
+			id: "6C51E188E3952C51"
+			rewards: [{
+				id: "38B2F8B9EBC417CF"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4B1307ACC3916280"
+				item: { count: 1, id: "endrem:old_eye" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["08C17527485D5B6E"]
+			id: "5A866D8805035179"
+			rewards: [{
+				id: "55F626DB1FE89560"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "09F49EC0480EC549"
+				item: { count: 1, id: "ars_nouveau:apprentice_spell_book" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5CD26C97233DBCCD"]
+			id: "77BAA6AAC3F5EDBC"
+			rewards: [{
+				id: "329DE218D5FB51AD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "05D205D70CE1908B"
+					item: { count: 1, id: "infested_swarms_spiders:chitin_helmet" }
+					type: "item"
+				}
+				{
+					id: "71AF003AD1D6C4C1"
+					item: { count: 1, id: "infested_swarms_spiders:chitin_chestplate" }
+					type: "item"
+				}
+				{
+					id: "088E5F62590E39D1"
+					item: { count: 1, id: "infested_swarms_spiders:chitin_leggings" }
+					type: "item"
+				}
+				{
+					id: "0F474A328E79C1C0"
+					item: { count: 1, id: "infested_swarms_spiders:chitin_boots" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5CD26C97233DBCCD"]
+			id: "79BF3CDF5901CF41"
+			rewards: [{
+				id: "4C331D54CC78CD6F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "3A04DF426DCCBFBD"
+					item: { count: 1, id: "infested_swarms_spiders:spider_helmet" }
+					type: "item"
+				}
+				{
+					id: "40266625B51197BF"
+					item: { count: 1, id: "infested_swarms_spiders:spider_chestplate" }
+					type: "item"
+				}
+				{
+					id: "1627F48FE9C94CAB"
+					item: { count: 1, id: "infested_swarms_spiders:spider_leggings" }
+					type: "item"
+				}
+				{
+					id: "6ACE8EC743AA2A4E"
+					item: { count: 1, id: "infested_swarms_spiders:spider_boots" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["21629D5495843986"]
+			id: "381BAA3CB813A80C"
+			rewards: [{
+				id: "5232AE79BD1E9F92"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "08495C47F5160A94"
+				item: { count: 1, id: "ars_nouveau:ritual_brazier" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -5.0d
+		}
+		{
+			id: "182CF71EFA117A8E"
+			invisible: true
+			tasks: [{
+				icon: {
+					id: "minecraft:player_head"
+				}
+				id: "03AFC4C0DD7F19A2"
+				observe_type: 5
+				timer: 0L
+				to_observe: "distantfriends:friend"
+				type: "observation"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+	]
+}

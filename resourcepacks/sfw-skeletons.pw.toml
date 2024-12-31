@@ -1,0 +1,13 @@
+name = "SFW Skeletons"
+filename = "sfw_skeletons.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18ea2b40b788028c11337452b04a37a21cd31788"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5704344
+project-id = 1094620

@@ -1,0 +1,13 @@
+name = "Geysers"
+filename = "geysers-1.0609-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7046d61b77ffa55439d970d365e86349c6de373e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5783487
+project-id = 987034

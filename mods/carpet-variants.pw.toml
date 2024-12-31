@@ -1,0 +1,13 @@
+name = "Carpet Variants"
+filename = "carpetvariants-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "910d232b49dd87e64c8d149c4468ac6d605bc80b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5909165
+project-id = 1035201

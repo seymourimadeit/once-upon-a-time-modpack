@@ -1,0 +1,13 @@
+name = "Door Knocking"
+filename = "door_knocking-1.0.1+1.21-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "005bf9e291207af3ae7c0f2e75acb7731a571c18"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5581378
+project-id = 1056025

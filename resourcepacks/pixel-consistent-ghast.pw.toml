@@ -1,0 +1,13 @@
+name = "Pixel Consistent Ghast"
+filename = "Pixel-Consistent-Ghast.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c8bdb05deb8b9e3eb442f103cc83596e8fd94ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5681606
+project-id = 1094630

@@ -1,0 +1,13 @@
+name = "Rainbows!"
+filename = "Rainbows-1.21-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5bef0c0831db6dcad6dabafa56af399d96c98fa6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5909710
+project-id = 1121832

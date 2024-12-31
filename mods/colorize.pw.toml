@@ -1,0 +1,13 @@
+name = "Colorize"
+filename = "colorize-1.21.1-neoforge-1.11.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b004f1c8f28887ece4f3b79c7eef4dde1b72c310"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5671409
+project-id = 658780

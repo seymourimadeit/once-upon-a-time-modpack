@@ -1,0 +1,13 @@
+name = "Easy Shulker Boxes [Forge & Fabric]"
+filename = "EasyShulkerBoxes-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b240f46daeeb9198d7a3efcf798989aace0a4246"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5743829
+project-id = 594006

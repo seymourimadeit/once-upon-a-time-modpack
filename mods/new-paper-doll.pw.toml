@@ -1,0 +1,13 @@
+name = "Paper Doll [Forge & Fabric]"
+filename = "PaperDoll-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3b2ae89784e4d4bd637a36a227a57dd8929a2a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5715976
+project-id = 857970

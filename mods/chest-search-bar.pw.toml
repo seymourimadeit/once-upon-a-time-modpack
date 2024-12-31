@@ -1,0 +1,13 @@
+name = "Chest Search Bar"
+filename = "chestsearchbar-neoforge-1.21-1.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75aef0ce575586e7049347981eafad29fc25fc84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5650803
+project-id = 1050325

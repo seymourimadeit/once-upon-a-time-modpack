@@ -1,0 +1,13 @@
+name = "Suspicious Structures"
+filename = "suspiciousstructures-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3738abd1bf86e6d9e209b0da96cd5dd1924008c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5687790
+project-id = 1095896

@@ -1,0 +1,23 @@
+#Whether or not to enable tweaks related to throwing things
+"Yeet Tweaks" = true
+#If enabled, you will be able to right-click the air with a fire charge to throw it
+#However, the projectile is inaccurate and unable to ignite blocks when spawned this way
+#Note: this re-uses the blaze attack sound event, so subtitles will be inaccurate
+"Throw Fire Charges" = true
+#Cooldown in ticks between throwing fire charges
+# Default: 10
+# Range: 0 ~ 1200
+"Fire Charges Cooldown" = 10
+#If > 0, snowballs inflict this many ticks of freeze when hitting an entity
+# Default: 40
+# Range: 0 ~ 2000
+"Snowball Freeze Ticks" = 40
+#The maximum amount of freeze ticks consecutive snowball projectiles can inflict
+# Default: 500
+# Range: 0 ~ 2000
+"Snowball Max Freeze" = 500
+#The amount of experience points granted from thrown Bottles o' Enchanting
+#Set to -1 to use the vanilla value (random amount between 3 and 13)
+# Default: 10
+# Range: -1 ~ 2477
+"Experience Bottle Amount" = 10

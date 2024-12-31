@@ -1,0 +1,44 @@
+{
+	/* How many emeralds you're trading: DEFAULTS between 1 and 3
+	   - default: 1
+	*/
+	costForCocoaBeansInEmeralds: 2,
+	/* How many Cocoa Beans you're trading: DEFAULTS between 1 and 3
+	   - default: 2
+	*/
+	costForBrownDyeInCocoaBeans: 1,
+	/* How much Brown Dye you'll receive in a trade: DEFAULTS between 1 and 5
+	   - default: 4
+	*/
+	payoutForBrownDyeTrade: 4,
+	/* How many Cocoa Beans you'll receive in a trade: DEFAULTS between 1 and 5
+	   - default: 1
+	*/
+	payoutForCocoaBeansTrade: 3,
+	/* How many trades are allowed per Wandering trader for Cocoa Beans: DEFAULTS to 12
+	   - default: 12
+	*/
+	maximumTradesForCocoaBeans: 12,
+	/* How many trades are allowed per Wandering Trader for Brown Dye: DEFAULTS to 7
+	   - default: 7
+	*/
+	maximumTradesForBrownDyeTrade: 7,
+	/* How many experience points you'll receive in a trade for Cocoa Beans: DEFAULTS to 12
+	   - default: 12
+	*/
+	experiencePointsToRewardForCocoaTrade: 12,
+	/* How many experience points you'll receive in a trade for Brown Dye: DEFAULTS to 7
+	   - default: 12
+	*/
+	experiencePointsToRewardForBrownDyeTrade: 12,
+	/* The rate of cost increase for the cocoa bean trade: Defaults to 0.05, Max is 0.20
+	   - default: 0.05
+	   - must be between 0.05000000074505806 and 0.20000000298023224
+	*/
+	tradeCostIncreaseForCocoaBeans: 0.05000000074505806,
+	/* The rate of cost increase for the Brown dye trade: Defaults to 0.12, Max is 0.20
+	   - default: 0.12
+	   - must be between 0.05000000074505806 and 0.20000000298023224
+	*/
+	tradeCostIncreaseForBrownDyeTrade: 0.11999999731779099
+}

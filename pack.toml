@@ -1,0 +1,11 @@
+name = "Once Upon A Time"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6338b91a4ab25dc0e264f876fa12f43a8374a25e490720aeec8ab5c726e4101b"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.83"

@@ -1,0 +1,92 @@
+{
+  //
+  //Performance: Decide whether Dark Conduits emit particles.
+  //True means they do emit particles.
+  //Default: true
+  "hasFancyShrineParticle": true,
+  //
+  //Base experience cost for each enchantment.
+  //All enchantments will be worth at least this much.
+  //Default: 35
+  "baseExperienceCost": 35,
+  //
+  //Each enchantment's cost is multiplied by this value.
+  //Default: 1.0
+  "costFactor": 1.0,
+  //
+  //Removing an enchantment from gear will cost XP.
+  //The amount received back is multiplied by this value.
+  //If you want it to cost XP when taking off levels, use takingOffLevelsCostsXP instead of setting this number negative.
+  //Default: 0.1
+  "receiveFactor": 0.1,
+  //
+  //Set to true if you want to cost money to remove levels of an enchantment.
+  //Set to false if you want to receive xp from taking off enchantment levels.
+  //
+  //WARNING: setting to false will cause exploits, where people can enchant with the vanilla table,
+  // then take them off at the Dark Enchanter to receive free experience. It is advised to heavily limit the receive factor
+  // if you decide to turn this off.
+  //Default: true
+  "takingOffLevelsCostsXP": true,
+  //
+  //Each curse enchantment's cost is multiplied by this value.
+  //Curse Enchantments will show up as red on the Dark Enchanter.
+  //Default: 3.0
+  "curseFactor": 3.0,
+  //
+  //Each TREASURE enchantment's cost is multiplied by this value.
+  //TREASURE Enchantments will show up as blue on the Dark Enchanter.
+  //Default: 4.0
+  "treasureFactor": 4.0,
+  //
+  //How much an enchantment's inverted weight should be multiplied with.
+  //Each enchantment has a Rarity, and each Rarity has a weight.
+  //You can check Enchantment weights on many Minecraft wikis.
+  //Inverted weight is calculated through (11.0 - Weight),
+  //and we multiply the inverted weight with the cost,
+  //so that cost is affected by the rarity of the Enchantment.
+  //This weightFactor allows you to modify the inverted weight.
+  //
+  //Default: 3.0
+  "weightFactor": 3.0,
+  //
+  //Repairing any item will have its cost multiplied by this value.
+  //Default: 1.0
+  "repairFactor": 1.0,
+  //
+  //This number represents the discount from bookshelves.
+  //Default: 0.4 (40%)
+  "bookshelvesDiscount": 0.4,
+  //
+  //This number represents the discount from Dark Conduits.
+  //Default: 0.1 (10%)
+  "conduitDiscount": 0.1,
+  //
+  //If true, when a player takes off an curse enchantment,
+  //this will revert the receive factor, so that it costs quite a bit of experience
+  //to take of the curse enchantment.
+  //Turn this false to allow curses to be handled like any other enchantment.
+  //Default: True
+  "curseEnchantmentsHaveSpecialHandling": true,
+  //
+  //This list can be used to configure specific enchantments.
+  //The values are as follows:
+  //
+  //    enchantmentId: The In-Game identification of the Enchantment.
+  //        No Default.
+  //    activated: Determines whether the enchantment will be available in the Dark Enchanter.
+  //        Default: true
+  //    personalFactor: During transactions, the cost of the specific enchantment is multiplied by this value.
+  //        Default: 1.0
+  //    personalReceiveFactor: Removing enchantments allows you to receive back some XP. The amount received is multiplied by this value.
+  //
+  //Below is an example entry for Sharpness with its defaults.
+  "configEnchantments": [
+    {
+      "enchantmentId": "minecraft:sharpness",
+      "activated": true,
+      "personalFactor": 1.0,
+      "personalReceiveFactor": 1.0
+    }
+  ]
+}

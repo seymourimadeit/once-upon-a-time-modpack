@@ -1,0 +1,175 @@
+{
+	chapter.4C5E6B18B4B24210.title: "The End"
+	chapter.4F17AE0C65F1F6C5.title: "The Beginning"
+	chapter.6B0C3F3D3688DCF8.title: "The Middle"
+	quest.041137D5B5DE6BB9.quest_subtitle: "Big tank."
+	quest.04F63EB5003A569E.quest_subtitle: "Slay the Elder Guardians with your new gear."
+	quest.04F63EB5003A569E.title: "Bubble Guppies!"
+	quest.05D2EE9380BD9576.quest_desc: ["For more info, read the MI guidebook."]
+	quest.05D2EE9380BD9576.quest_subtitle: "When the blast is made out of electricity."
+	quest.07CBA2AB72BC8348.quest_subtitle: "Use coke dust to finally make some steel!"
+	quest.07CBA2AB72BC8348.title: "Steamed Hams"
+	quest.08C17527485D5B6E.quest_subtitle: "Upgrade your old bronze machines."
+	quest.0C8C287A68B90EF5.quest_subtitle: "Prepare."
+	quest.0C8C287A68B90EF5.title: "Wildin'"
+	quest.0E7DDCCCAC2D8AF0.quest_subtitle: "There are more sourcelinks, but this is the easiest and most accessible in this phase of the game."
+	quest.119B377D68760DA5.quest_subtitle: "Steam Quarries automatically generate ores for the players to gather."
+	quest.11E3A8E50E7F54B8.quest_desc: ["For more info, please read their guide book. "]
+	quest.11E3A8E50E7F54B8.quest_subtitle: "Starts your journey towards Modern Industrialization, which you need to craft better armor and gear."
+	quest.182CF71EFA117A8E.quest_subtitle: "Encounter a distant friend."
+	quest.182CF71EFA117A8E.title: "HEROBRINE????"
+	quest.192EA9E67368A9EC.quest_subtitle: "Turn your machines into electric ones!"
+	quest.192EA9E67368A9EC.title: "Unlimited Power!"
+	quest.1CD2A149869EDEFC.quest_desc: ["You can either craft these or obtain them from infernal mobs."]
+	quest.1CD2A149869EDEFC.quest_subtitle: "A mild amount of protection > some protection"
+	quest.1CD2A149869EDEFC.title: "Leather -> Chainmail"
+	quest.1F0589F10F9239F4.quest_desc: [
+		"Ancient cities are a special dungeon, I recommend you bring lots of wool."
+		""
+		"For more info I suggest you look up a tutorial on youtube."
+	]
+	quest.1F0589F10F9239F4.quest_subtitle: "Craft this from echo shards found in long lost underground cities."
+	quest.21629D5495843986.quest_desc: [
+		"Some of the mobs and dungeons can get really tough, you'll need this."
+		"For more info, please read this mod's guidebook."
+	]
+	quest.21629D5495843986.quest_subtitle: "Mix an apothecary's pupil with a book to create a spellbook."
+	quest.21629D5495843986.title: "You're a wizard, Harry!"
+	quest.21CEE0ED62BC1B5C.quest_subtitle: "Get that oil."
+	quest.21CEE0ED62BC1B5C.title: "Dubya, get outta here!"
+	quest.21D7C301F5ACC45E.quest_desc: [
+		"Use those diamonds from earlier to craft these bronze machines."
+		""
+		"For more info on these, read the MI guidebook."
+	]
+	quest.21D7C301F5ACC45E.quest_subtitle: "Thousands of pounds of copper and tin."
+	quest.21D7C301F5ACC45E.title: "Bronze Machines"
+	quest.237DB0C4030ABD37.quest_desc: ["Beds are now able to save your inventory and restore them when you die. Unsaved items will be dropped upon death."]
+	quest.237DB0C4030ABD37.quest_subtitle: "Get a bed to save your inventory."
+	quest.237DB0C4030ABD37.title: "Feeling kind of eeepy rn...."
+	quest.24908E6FC53AE804.quest_desc: ["Don't take a drugs. Else your whole body becomes undead with the exception of one eye. "]
+	quest.24908E6FC53AE804.quest_subtitle: "Slay a Mutated Skeleton"
+	quest.265461703093F7BC.quest_desc: ["Remember those Ender Dragon pet mods back then? They're back."]
+	quest.265461703093F7BC.quest_subtitle: "Hatch the Dragon Egg to get a new pet. Remember to tame it with fish."
+	quest.265461703093F7BC.title: "A Pet?"
+	quest.277A62AAD6DB9C42.quest_subtitle: "Coke ovens make coke, an incredible fuel source and a key ingredient for steel!"
+	quest.277A62AAD6DB9C42.title: "Wanna cook?"
+	quest.2CDC0FDDFB3CA319.quest_desc: ["Diamonds are only obtainable via structures for the majority of the game until you get the Implosion Compressor. Get at least 10 diamonds in order to craft machines."]
+	quest.2CDC0FDDFB3CA319.quest_subtitle: "Did you know diamonds aren't actually that rare in real life? No really look it up."
+	quest.2CDC0FDDFB3CA319.title: "You'll need them later..."
+	quest.2FA134E3564EC4AB.quest_subtitle: "In this modpack you will have to use enchantment apparatuses to make enchantments."
+	quest.2FA134E3564EC4AB.title: "Enchantment Tables? LOL"
+	quest.30293D280F7ADC81.quest_subtitle: "Make some wires!"
+	quest.30293D280F7ADC81.title: "Wired Up!"
+	quest.322E10B6F6A040DB.quest_subtitle: "Big steam."
+	quest.322E10B6F6A040DB.title: "Thomas the Tank Engine"
+	quest.32E5E96D1858D0F6.quest_desc: ["Elytras aren't in this pack lol. "]
+	quest.32E5E96D1858D0F6.quest_subtitle: "Make a jetpack."
+	quest.32E5E96D1858D0F6.title: "Weeee!"
+	quest.33CDC5826E77E685.quest_subtitle: "Upgrade your multiblocks."
+	quest.33CDC5826E77E685.title: "Upgrades People, Upgrades!"
+	quest.352201DF0D7A8704.quest_subtitle: "In order to progress, you need to make copper tools instead of stone tools."
+	quest.352201DF0D7A8704.title: "Copper What?"
+	quest.381BAA3CB813A80C.quest_subtitle: "Allows you to access special rituals from Ars Nouveau."
+	quest.38C0F08AD031272D.quest_subtitle: "Even more diesel power."
+	quest.38C0F08AD031272D.title: "Diesels? Nah, I'm a steamie."
+	quest.3A80B7EF47455828.quest_desc: ["Eating one of these gives the player one extra heart."]
+	quest.3A80B7EF47455828.quest_subtitle: "Sometimes found amongst diamonds in loot chests."
+	quest.3A80B7EF47455828.title: "Eat your heart out!"
+	quest.3B76DA6B15861CAC.quest_desc: ["I really reccomend you stock up on your best gear and weapons for this."]
+	quest.3B76DA6B15861CAC.quest_subtitle: "Summon the Wilden Chimera and grab it's eyes out."
+	quest.3C1B7170A6516BA3.quest_desc: ["Uranium-235 can be made via depleted uranium fuel rods (that's what your reactor is for) or putting uranium dust in a centrifuge."]
+	quest.3C1B7170A6516BA3.quest_subtitle: "Use Uranium-235 dust to make Chemical X."
+	quest.3C1B7170A6516BA3.title: "Sugar, Spice, and Everything Nice"
+	quest.3CDE29A77A15A90A.quest_subtitle: "You know what to do here."
+	quest.3CDE29A77A15A90A.title: "Create a Portal"
+	quest.3F54CC8379842D56.title: "It has Electrolytes..."
+	quest.463D452A37E818B0.quest_subtitle: "Wait, it just turns water into steam?"
+	quest.463D452A37E818B0.title: "Kim's Ultimate Weapon"
+	quest.4AEB737E84BBB6EE.quest_desc: ["Wait creepers have eyes?"]
+	quest.4AEB737E84BBB6EE.quest_subtitle: "Mutate a creeper then slay it. "
+	quest.4C6AB1C172DDFD05.quest_desc: ["You need a hulk buster for this guy."]
+	quest.4C6AB1C172DDFD05.quest_subtitle: "Slay a mutated zombie."
+	quest.4DEE42068CD2A185.quest_subtitle: "Global warming will become real in 10 seconds."
+	quest.4DEE42068CD2A185.title: "Diesel 10"
+	quest.4EE310665EF2703B.quest_subtitle: "An optional upgrade to the steam turbine."
+	quest.4EE310665EF2703B.title: "Higher Pressure"
+	quest.4F657BB2D8ADD1C1.quest_subtitle: "More efficient crafting."
+	quest.4FB74680172A83AF.quest_desc: [
+		"This modpack seeks to mitigate the common trope of the \"6 week Minecraft\" phase by overhauling progression using technology and magic whilst also reworking old features along the way. "
+		""
+		"Here are a few notable changes:"
+		""
+		"Beds now require ‘cloth’ items from zombies"
+		"Now work as ‘save points,’ basically restoring your inventory from the last time you saved it (See Respawn Save Points mod for reference)"
+		""
+		"Leather armor is intended as a viable early game option to protect oneself"
+		"Each piece now costs at least 3 pieces of leather and 2 pieces of string, with the exception of leather boots, which only cost 2 pieces of leather!"
+		"Leather armor is now required for making chainmail armor"
+		""
+		"Chainmail armor is now required to make iron armor or gold armor"
+		""
+		"Iron armor is now required to make diamond armor"
+		""
+		"Diamonds no longer drop from diamond ores as diamond ores drop themselves now. "
+		"Diamonds can be found early and mid game via exploring structures "
+		"Diamond ores can be processed via an implosion chamber, but that’s gonna take a while to get…"
+		"Smithing template for diamonds can be made by machines"
+		""
+		"Don’t think you can cheat this system. All iron and diamond armors (and diamond tools) have been deleted from every loot table they appear in and replaced by their raw ingot/gem counterpart"
+	]
+	quest.4FB74680172A83AF.title: "Info!!!"
+	quest.4FFECA2DDBB60B39.quest_subtitle: "You're an even better wizard, Harry!"
+	quest.52E7FF7703E105C0.quest_desc: ["Do note that raids will be harder, as illagers will wear armor."]
+	quest.52E7FF7703E105C0.quest_subtitle: "Defeat a raid."
+	quest.52E7FF7703E105C0.title: "Win a raid"
+	quest.5A866D8805035179.quest_subtitle: "Level 2 glyphs!"
+	quest.5C851E9C9E9821BA.quest_subtitle: "Where do you find this do you ask? Let's just say some villages left this behind..."
+	quest.5CD26C97233DBCCD.quest_subtitle: "Some protection is better than none."
+	quest.5CD26C97233DBCCD.title: "Make Leather Armor"
+	quest.604635AF9C133504.quest_subtitle: "Obtain these smithing templates and combine them with chainmail to get full iron gear!"
+	quest.604635AF9C133504.title: "Knight in Shining Armor"
+	quest.641D45DEA19546F2.quest_subtitle: "Use that high pressure water in these machines!"
+	quest.641D45DEA19546F2.title: "Under Pressure"
+	quest.66469DF5B2BB0CFA.quest_subtitle: "Craft a Freezer to make hot ingots cold!"
+	quest.66469DF5B2BB0CFA.title: "Nippy"
+	quest.683F4BFE066980E8.quest_subtitle: "Make rubber, you'll need these for cables that transport electricity."
+	quest.683F4BFE066980E8.title: "Rubber? I hardly know her!"
+	quest.68D2474AA2180BCE.quest_subtitle: "Visit a nether citadel and defeat the wildfire."
+	quest.69A600BC8AF37196.quest_desc: ["Find a bastion and defeat a brute or loot a chest to obtain these."]
+	quest.69A600BC8AF37196.quest_subtitle: "It's a cool shield y'know."
+	quest.69A600BC8AF37196.title: "Demoknight TF2"
+	quest.6B1CB3789C9D64BF.quest_desc: ["Don't do drugs kids."]
+	quest.6B1CB3789C9D64BF.quest_subtitle: "Fight a mutated enderman"
+	quest.6B60826D23CE8A6B.quest_subtitle: "More machines for more crafting opportunites."
+	quest.6B60826D23CE8A6B.title: "Breaking Bad"
+	quest.6BB222F6BE9A083C.quest_desc: ["With all the eyes collected, go into a stronghold and fight the Ender Dragon."]
+	quest.6BB222F6BE9A083C.quest_subtitle: "What you've been waiting for."
+	quest.6BB222F6BE9A083C.title: "Dragonfire"
+	quest.6C51E188E3952C51.quest_subtitle: "Find the fragments of this eye via brushing blocks in archeology sites."
+	quest.6C51E188E3952C51.title: "Lost and Found"
+	quest.7046F3D3672152FB.quest_subtitle: "Do note that this is extendable."
+	quest.708F887E65110BB9.quest_desc: ["In this modpack 80% of villages are rendered abandoned, so it will be very difficult trying to find an alive village. I suggest you make your own village from zombie villagers."]
+	quest.708F887E65110BB9.quest_subtitle: "Draft 25 unemployed villagers into the army."
+	quest.758BD6C0D6D08AB7.quest_desc: ["To access an omnious trial, find an omnious bottle, drink it, and then enter the Trial Chambers that can be found underground (hint, they have a lot of copper!)"]
+	quest.758BD6C0D6D08AB7.quest_subtitle: "Unlock this from completing an omnious trial."
+	quest.775A8EB772221C68.quest_subtitle: "Create a wither then defeat it."
+	quest.77B38E622595CE65.quest_subtitle: "\"Walking around the Nether hyperfocused on a structure with no guide is fun!\" said no one ever."
+	quest.77BAA6AAC3F5EDBC.quest_desc: ["This full set of armor grants you the same protection value as iron armor and the ability to become 'ambush' mobs by going inivisble when sneaking. The first entity you attack is hit with increased damage. This armor also has decreased durability."]
+	quest.77BAA6AAC3F5EDBC.quest_subtitle: "Hope you don't look like a male mantis."
+	quest.79BF3CDF5901CF41.quest_desc: ["This full set of armor grants you the same protection value as iron armor and the ability to make webs that is able to make entities stuck. Durability is low though."]
+	quest.79BF3CDF5901CF41.quest_subtitle: "Spider man was here."
+	quest.79BF3CDF5901CF41.title: "There was a spider... (spider)..."
+	quest.7B16B236B1957370.quest_desc: ["For more info, read the MI guidebook."]
+	quest.7B16B236B1957370.quest_subtitle: "Produce electricity from steam!"
+	quest.7B16B236B1957370.title: "Electric Eye"
+	quest.7EF6A833660D175E.quest_desc: [
+		"This allows you to access an expanded list of spells!"
+		""
+		"Right click on this with your spellbook to search your intended glyph, and then follow the crafting recipe."
+	]
+	quest.7EF6A833660D175E.quest_subtitle: "This is what English classes were for."
+	quest.7F52265BA08C6F55.quest_subtitle: "All that diamond ore can used up now."
+	quest.7F52265BA08C6F55.title: "In case of implosion, look at implosion."
+	task.3902CF2D3E2422C6.title: "New Recruits"
+}

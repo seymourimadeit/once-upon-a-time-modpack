@@ -1,0 +1,13 @@
+name = "Mob Armor Trims"
+filename = "mob_armor_trims-2.4.4+1.21-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a69d6fd6c037995d18acb22bbc12e631955acde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5971206
+project-id = 1005441

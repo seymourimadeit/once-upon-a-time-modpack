@@ -1,0 +1,13 @@
+name = "Global Packs"
+filename = "globalpacks-neoforge-1.21-21.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c9bf857feb9df37bc09cf341c52f043749b29f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5485917
+project-id = 317134

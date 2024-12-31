@@ -1,0 +1,13 @@
+name = "Sorted Enchantments"
+filename = "sorted_enchantments-2.0.0+1.21+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "baf401681642a3b6789cab1e66fcd9ecd9ba5b11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5677875
+project-id = 974256

@@ -1,0 +1,13 @@
+name = "\"To the Bat Poles!\""
+filename = "AdPoles-1.21-10.0.0.0-NeoForge-build.0288.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34d304b7453ecec0149fd5985f79a916d8107a6a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5526557
+project-id = 272190

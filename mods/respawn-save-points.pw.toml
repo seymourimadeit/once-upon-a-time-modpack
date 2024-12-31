@@ -1,0 +1,13 @@
+name = "Respawn Save Points"
+filename = "respawn_save_points-1.1.4-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8aab96ee77ba81e97a0f720938b9184db63fa6e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5622402
+project-id = 1035335

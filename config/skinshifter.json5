@@ -1,0 +1,7 @@
+{
+  "changeCape": true,
+  "changeNameTag": true,
+  "changeChatName": true,
+  "baseCommandOPLevel": 2,
+  "selfCommandOPLevel": 0
+}

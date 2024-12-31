@@ -1,0 +1,13 @@
+name = "A Good Place"
+filename = "a_good_place-1.21-1.2.5-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43251d244f03003cf8cc3ec9adf9b01e0c7945c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5974291
+project-id = 1020455

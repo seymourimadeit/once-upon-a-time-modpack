@@ -1,0 +1,13 @@
+name = "Open Third Person"
+filename = "openthirdperson-1.21-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df58d99eacf8172b07ab5f24eba4b7245247c659"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5789960
+project-id = 1079488

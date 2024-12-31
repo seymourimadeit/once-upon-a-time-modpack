@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "endrem:cold_eye"
+        }
+      ]
+    }
+  ]
+  "random_sequence": "ars_nouveau:entities/wilden_boss"
+}

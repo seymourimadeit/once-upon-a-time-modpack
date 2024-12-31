@@ -1,0 +1,13 @@
+name = "Passthrough Signs"
+filename = "PassthroughSigns-neoforge-1.21-2.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "938094675771d2638b3c970c2ed1e1b79f0615ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5575829
+project-id = 224633

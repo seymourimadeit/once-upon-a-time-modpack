@@ -1,0 +1,13 @@
+name = "Auroras"
+filename = "Auroras-1.21-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0928b2b87146ad71263314a186973fe67a06adb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5909721
+project-id = 1105290

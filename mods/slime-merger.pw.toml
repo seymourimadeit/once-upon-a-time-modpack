@@ -1,0 +1,13 @@
+name = "Slime Merger"
+filename = "SlimeMerger-1.21-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b522c7479e4d648756597247e80c4c77c99def56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5480752
+project-id = 821147

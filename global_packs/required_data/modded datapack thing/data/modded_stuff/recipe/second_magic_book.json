@@ -1,0 +1,25 @@
+{
+    "type": "modern_industrialization:packer",
+    "duration": 100,
+    "eu": 2,
+    "item_inputs": [
+        {
+            "amount": 2,
+            "tag": "c:rods/blaze"
+        },
+        {
+            "amount": 4,
+            "tag": "c:gems/diamond"
+        },
+        {
+            "amount": 1,
+            "item": "ars_nouveau:novice_spell_book"
+        }
+    ],
+    "item_outputs": [
+        {
+            "amount": 1,
+            "item": "ars_nouveau:apprentice_spell_book"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+name = "Creepers Plus"
+filename = "creeper-plus.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a511aa1a84f435bef1c0c2c15a66f9b928c1f1c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5549980
+project-id = 1067820

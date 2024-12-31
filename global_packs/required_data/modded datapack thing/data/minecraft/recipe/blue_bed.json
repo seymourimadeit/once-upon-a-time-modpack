@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "## ",
+        "##W",
+        "OOO"
+    ],
+    "key": {
+        "#": {
+            "item": "kubejs:fabric"
+        },
+        "W": {
+            "item": "minecraft:white_wool"
+        },
+        "O": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "id": "minecraft:light_blue_bed",
+        "count": 1
+    }
+}

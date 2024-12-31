@@ -1,0 +1,13 @@
+name = "ParitySheep"
+filename = "undefined.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25448f17e23b11aa73beb952bb461f22944909b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5683526
+project-id = 676404
