@@ -43,7 +43,7 @@ The player is encouraged to use Ars Nouveau’s spells to counter these buffed m
      - Eye of Greed, defeat a raid (more difficult than before, intact villages are less common and illagers will spawn with armor. ![Raid](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_21.02.18.png)
      - Eye of the Nether, defeat a Wildfire in it's citadel. ![Nether](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_20.53.39.png)
      - Eye of the Wither, defeat a Wither. ![Wither](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_20.56.09.png)
-     - Eye of Savagery, defeat the Wilden Chimera. ![Wilden Chimera](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_20.56.09.png)
+     - Eye of Savagery, defeat the Wilden Chimera. ![Wilden Chimera](https://raw.githubusercontent.com/seymourimadeit/once-upon-a-time-modpack/refs/heads/main/pack_images/2024-12-31_20.52.07.png)
      - Mutated Eye of Ender, mutate an enderman and slay it. ![Mutant Enderman](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_20.57.50.png)
      - Eye of Sentience, mutate a skeleton and slay it. ![Mutant Skeleton](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_21.44.15.png)
      - Eye of Creeping, mutate a creeper and slay it. ![Mutant Creeper](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_21.45.55.png)
