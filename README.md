@@ -1,5 +1,5 @@
 @ -0,0 +1,89 @@
-![Enter image alt description](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/kZo_Image_1.png)
+![Modpack Logo](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/kZo_Image_1.png)
 
 What is it about? (VERY W.I.P)
 
@@ -51,38 +51,23 @@ Intended changes from Early game to End game
 
 - Ender Dragon
 
-  - Trying to beat the Ender Dragon shall be a lot slower as this modpack will try to aim for more “chill” vibes
-
+  - Trying to beat the Ender Dragon shall be a lot slower as per the slowed down progression this pack provides. I reccomend that you spend most of your time building instead of grinding here.
+    
   - Uses End Remastered system, get eyes from beating various challenges
-
+ 
   - Specifics:
-
-  - Corrupted Eye, found by beating a raid (extra hard with Illagers Wear Armor)
-
-  - Guardian Eye, crafted from 3 Elder Guardian Eye fragments (100% drop rate)
-
-  -  Undead Eye, dropped from Mutant Zombie (more on them later)
-
-  - Rogue Eye, dropped from Mutant Creeper
-
-  - Cursed Eye, dropped from Mutant Enderman
-
-  - Black Eye, dropped by Mutant Skeleton
-
-  - Nether Eye, dropped by Wildfire
-
-  - Evil Eye, dropped by Ominous Trial Vault loot
-
-  - Wither Eye, dropped by Wither
-
-  - Evil Eye, do an ominous trial for a chance at earning this!
-
-  - Old Eye, found by fragments in archeology
-
-  - Lost Eye, founded in Ancient cities (replaces soul compass stuff, which we might as well remove with the addition of minimap mods)
-  
-  - Cold Eye, obtained by fighting the Wilden Chimera!
-
+     - Eye of Discovery, crafted from pieces dug up from various archeological sites (there's more than just the trail ruins in this pack) ![Archeology](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/kZo_Image_1.png)
+     - Eye of Omniousness, found in loot from omnious trials. ![Trial](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_20.43.47.png)
+     - Eye of Bygones, compress 4 sculk from Ancient Cities to obtain this eye. ![Ancient City](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_20.50.15.png)
+     - Eye of Guardianship, defeat an Elder Guardian. ![Ocean Monument](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_21.05.05.png)
+     - Eye of Greed, defeat a raid (more difficult than before, intact villages are less common and illagers will spawn with armor. ![Raid](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_21.02.18.png)
+     - Eye of the Nether, defeat a Wildfire in it's citadel. ![Nether](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_20.53.39.png)
+     - Eye of the Wither, defeat a Wither. ![Wither](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_20.56.09.png)
+     - Eye of Savagery, defeat the Wilden Chimera. ![Wilden Chimera](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_20.56.09.png)
+     - Mutated Eye of Ender, mutate an enderman and slay it. ![Mutant Enderman](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_20.57.50.png)
+     - Eye of Sentience, mutate a skeleton and slay it. ![Mutant Skeleton](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_21.44.15.png)
+     - Eye of Creeping, mutate a creeper and slay it. ![Mutant Creeper](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_21.45.55.png)
+     - Eye of Ghoulishness, mutate a zombie and slay it. ![Mutant Zombie](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_21.01.06.png)
 - On Mutants:
 
   - Mutants are made via enhancing a strength potion with uranium-235 dust in a brewing stand (which is obtained by putting uranium dust in a centrifuge). They do not naturally spawn!
