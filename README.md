@@ -21,8 +21,7 @@ Diamonds no longer drop from diamond ores as diamond ores drop themselves now.
   - Smithing template for diamonds can be made by machines
   - Don’t think you can cheat this system. All iron and diamond armors and tools have been deleted from every loot table they appear in and replaced by their raw ingot/gem counterpart
 
-- Bundles
-
+Bundles
   - Metal Bundles has been added to help with inventory management
 
 Big Brain and Infernal Mobs have been added to make combat a bit more challenging
@@ -50,7 +49,5 @@ The player is encouraged to use Ars Nouveau’s spells to counter these buffed m
      - Eye of Creeping, mutate a creeper and slay it. ![Mutant Creeper](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_21.45.55.png)
      - Eye of Ghoulishness, mutate a zombie and slay it. ![Mutant Zombie](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_21.01.06.png)
 - On Mutants:
-
-  - Mutants are made via enhancing a strength potion with uranium-235 dust in a brewing stand (which is obtained by putting uranium dust in a centrifuge). They do not naturally spawn!
-
-  - Mutants are intended to be the most powerful boss, with them always spawning with infernal mobs modifiers… luckily you should be able to counter these with the Ars Nouveau spells.
+  - Mutants are made via enhancing a strength potion with uranium-235 dust in a brewing stand (which is obtained by putting uranium dust in a centrifuge). They do not naturally spawn
+  - Mutants are intended to be the most powerful bosses in this modpack, with them always spawning with infernal mobs modifiers… luckily you should be able to counter these with the Ars Nouveau spells.
