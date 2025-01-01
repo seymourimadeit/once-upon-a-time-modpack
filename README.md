@@ -56,7 +56,7 @@ Intended changes from Early game to End game
   - Uses End Remastered system, get eyes from beating various challenges
  
   - Specifics:
-     - Eye of Discovery, crafted from pieces dug up from various archeological sites (there's more than just the trail ruins in this pack) ![Archeology](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/kZo_Image_1.png)
+     - Eye of Discovery, crafted from pieces dug up from various archeological sites (there's more than just the trail ruins in this pack) ![Archeology](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_20.45.36.png)
      - Eye of Omniousness, found in loot from omnious trials. ![Trial](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_20.43.47.png)
      - Eye of Bygones, compress 4 sculk from Ancient Cities to obtain this eye. ![Ancient City](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_20.50.15.png)
      - Eye of Guardianship, defeat an Elder Guardian. ![Ocean Monument](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/2024-12-31_21.05.05.png)
