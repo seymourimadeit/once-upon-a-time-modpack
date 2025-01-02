@@ -1,4 +1,3 @@
-@ -0,0 +1,89 @@
 ![Modpack Logo](https://github.com/seymourimadeit/once-upon-a-time-modpack/blob/main/pack_images/kZo_Image_1.png)
 
 What is it about? (VERY W.I.P)
