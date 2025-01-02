@@ -32,4 +32,4 @@ jobs:
           #game-versions: 1.21.1
           #version-type: release
           #changelog-file: changelog-1.21.*
-          version: 1.0.0
+          version: 1.0.0-server
