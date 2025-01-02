@@ -1,0 +1,36 @@
+name: publish-modpack
+
+on: [ workflow_dispatch ]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '>=1.19'
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+        
+      - name: Export modpack for CurseForge
+        run: packwiz curseforge export --side server
+        
+      - name: Upload the modpack 
+        uses: Kir-Antipov/mc-publish@v3.3.0
+        with:
+          #curseforge-id: 1168966
+          #curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+          files: |
+                 *.zip
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          #loaders: neoforge
+          #game-versions: 1.21.1
+          #version-type: release
+          #changelog-file: changelog-1.21.*
+          version: 1.0.0
+          name: "Once Upon A Time Server Pack"
