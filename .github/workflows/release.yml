@@ -23,13 +23,13 @@ jobs:
       - name: Upload the modpack 
         uses: Kir-Antipov/mc-publish@v3.3.0
         with:
-          #curseforge-id: 1168966
-          #curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+          curseforge-id: 1168966
+          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
           files: |
                  *.zip
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          #loaders: neoforge
-          #game-versions: 1.21.1
-          #version-type: release
-          #changelog-file: changelog-1.21.*
-          version: 1.0.0-server
+          loaders: neoforge
+          game-versions: 1.21.1
+          version-type: release
+          changelog-file: changelog-1.21.*
+          version: 1.0.0
