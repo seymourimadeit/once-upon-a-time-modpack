@@ -9,5 +9,5 @@ RenderDisplayItem = false
 blackListedEntities = []
 whiteListedEntities = []
 isAlwaysShowItemCount = true
-startTime = 103.003
+startTime = 50.247
 chatFix = false

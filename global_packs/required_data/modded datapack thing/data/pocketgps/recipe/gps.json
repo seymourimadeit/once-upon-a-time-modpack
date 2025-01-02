@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "CII",
+    "IMI",
+    "IDI"
+  ],
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "M": {
+      "item": "minecraft:map"
+    },
+    "C": {
+      "item": "minecraft:lightning_rod"
+    },
+    "D": {
+      "item": "modern_industrialization:iron_gear"
+    }
+  },
+  "result": {
+    "id": "pocketgps:gps",
+    "count": 1
+  },
+  "show_notification": false
+}

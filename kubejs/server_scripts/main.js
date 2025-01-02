@@ -267,6 +267,7 @@ LootJS.modifiers(event => {
   event.addTableModifier(LootType.CHEST, LootType.VAULT).replaceLoot("minecraft:diamond_chestplate", "minecraft:diamond")
   event.addTableModifier(LootType.CHEST, LootType.VAULT).replaceLoot("minecraft:diamond_leggings", "minecraft:diamond")
   event.addTableModifier(LootType.CHEST, LootType.VAULT).replaceLoot("minecraft:diamond_boots", "minecraft:diamond")
+  event.addTableModifier(LootType.CHEST, LootType.VAULT).replaceLoot("minecraft:iron_ingot", "minecraft:raw_iron")
   event.addTableModifier(LootType.CHEST, LootType.VAULT).removeLoot("lifesteal:crystal_core")
   event.addTableModifier(LootType.CHEST, LootType.VAULT).removeLoot("lifesteal:crystal_fragment")
   event.addTableModifier(LootType.CHEST, LootType.VAULT).removeLoot("lifesteal:crystal_block")
@@ -286,10 +287,35 @@ LootJS.modifiers(event => {
       }
     }
   })
+  event.addTableModifier(LootType.CHEST, LootType.VAULT).customAction((context, loot) => {
+    if (loot.hasItem("minecraft:raw_iron") && context.entity != null) {
+      if (!context.entity.tags.contains("completed_diamond_quest")) {
+        loot.remove("minecraft:raw_iron")
+      }
+    }
+  })
+})
+BlockEvents.broken('minecraft:enchanting_table', event => {
+  event.block.set('minecraft:air')
+})
+BlockEvents.leftClicked('minecraft:enchanting_table', event => {
+  event.block.set('minecraft:air')
+})
+BlockEvents.rightClicked('minecraft:enchanting_table', event => {
+  event.block.set('minecraft:air')
+})
+BlockEvents.placed('minecraft:enchanting_table', event => {
+  event.block.set('minecraft:air')
 })
 FTBQuestsEvents.completed("6C51E188E3952C51", event => {
   event.player.addTag("completed_old_eye_quest")
 })
+FTBQuestsEvents.completed("2CDC0FDDFB3CA319", event => {
+  event.player.addTag("completed_diamond_quest")
+})
 FTBQuestsEvents.completed("758BD6C0D6D08AB7", event => {
   event.player.addTag("completed_evil_eye_quest")
 })
+EntityJSEvents.biomeSpawns(event => {
+  event.addSpawn('minecraft:rabbit', ['minecraft:plains'], 20, 2, 4);
+});

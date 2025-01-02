@@ -16,6 +16,9 @@
 	quest.119B377D68760DA5.quest_subtitle: "Steam Quarries automatically generate ores for the players to gather."
 	quest.11E3A8E50E7F54B8.quest_desc: ["For more info, please read their guide book. "]
 	quest.11E3A8E50E7F54B8.quest_subtitle: "Starts your journey towards Modern Industrialization, which you need to craft better armor and gear."
+	quest.12D3ED50D5F5E1D9.quest_desc: ["This item allows one to gain access to a minimap."]
+	quest.12D3ED50D5F5E1D9.quest_subtitle: "Smaller than a regular map."
+	quest.12D3ED50D5F5E1D9.title: "Minimaps!"
 	quest.182CF71EFA117A8E.quest_subtitle: "Encounter a distant friend."
 	quest.182CF71EFA117A8E.title: "HEROBRINE????"
 	quest.192EA9E67368A9EC.quest_subtitle: "Turn your machines into electric ones!"
@@ -54,7 +57,10 @@
 	quest.265461703093F7BC.title: "A Pet?"
 	quest.277A62AAD6DB9C42.quest_subtitle: "Coke ovens make coke, an incredible fuel source and a key ingredient for steel!"
 	quest.277A62AAD6DB9C42.title: "Wanna cook?"
-	quest.2CDC0FDDFB3CA319.quest_desc: ["Diamonds are only obtainable via structures for the majority of the game until you get the Implosion Compressor. Get at least 10 diamonds in order to craft machines."]
+	quest.2CDC0FDDFB3CA319.quest_desc: [
+		"Diamonds are only obtainable via structures for the majority of the game until you get the Implosion Compressor. Get at least 10 diamonds in order to craft machines."
+		"Raw iron in loot tables will also start appearing once you complete this quest."
+	]
 	quest.2CDC0FDDFB3CA319.quest_subtitle: "Did you know diamonds aren't actually that rare in real life? No really look it up."
 	quest.2CDC0FDDFB3CA319.title: "You'll need them later..."
 	quest.2FA134E3564EC4AB.quest_subtitle: "In this modpack you will have to use enchantment apparatuses to make enchantments."

@@ -305,8 +305,8 @@
 					type: "item"
 				}
 			]
-			x: 1.0d
-			y: -1.0d
+			x: 7.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -325,8 +325,8 @@
 				item: { count: 4, id: "kubejs:iron_upgrade_smithing_template" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 0.0d
+			x: 14.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["21D7C301F5ACC45E"]
@@ -511,11 +511,22 @@
 		{
 			dependencies: ["277A62AAD6DB9C42"]
 			id: "07CBA2AB72BC8348"
-			rewards: [{
-				id: "2055937930FDA004"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "2055937930FDA004"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 3
+					id: "3738BE7D8B80911D"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "47DA177D29917BF3"
@@ -548,12 +559,6 @@
 					item: { count: 1, id: "modern_industrialization:bronze_item_output_hatch" }
 					type: "item"
 				}
-				{
-					count: 3L
-					id: "5259C302B84E992B"
-					item: { count: 3, id: "minecraft:diamond" }
-					type: "item"
-				}
 			]
 			x: 8.5d
 			y: -2.0d
@@ -571,7 +576,7 @@
 				item: { count: 1, id: "endrem:evil_eye" }
 				type: "item"
 			}]
-			x: 14.0d
+			x: 19.0d
 			y: 1.0d
 		}
 		{
@@ -587,8 +592,8 @@
 				item: { count: 1, id: "endrem:lost_eye" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: 3.5d
+			x: 18.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["2CDC0FDDFB3CA319"]
@@ -603,7 +608,7 @@
 				item: { count: 1, id: "lifesteal:heart_crystal" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -3.0d
 			y: -5.0d
 		}
 		{
@@ -651,8 +656,8 @@
 				item: { count: 1, id: "endrem:old_eye" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: -6.25d
+			x: -6.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["08C17527485D5B6E"]
@@ -701,8 +706,8 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
-			y: 1.0d
+			x: 5.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["5CD26C97233DBCCD"]
@@ -767,8 +772,24 @@
 				to_observe: "distantfriends:friend"
 				type: "observation"
 			}]
-			x: 3.5d
-			y: 1.5d
+			x: -6.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["11E3A8E50E7F54B8"]
+			id: "12D3ED50D5F5E1D9"
+			rewards: [{
+				id: "3E054EF27BCBFFE7"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "24A9E1F89D2AE92F"
+				item: { count: 1, id: "pocketgps:gps" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.0d
 		}
 	]
 }

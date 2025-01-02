@@ -8,17 +8,5 @@
 
     "result": "deny"
 
-  },
-  {
-    "mob": ["minecraft:rabbit"],
-    "dimension": "minecraft:overworld",
-    "biome": "minecraft:plains",
-    "result": "default"
-  },
-  {
-    "mob": ["minecraft:rabbit"],
-    "dimension": "minecraft:overworld",
-    "incontrol": true,
-    "result": "deny"
   }
 ]

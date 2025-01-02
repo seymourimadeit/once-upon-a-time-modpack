@@ -86,7 +86,7 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/RuOK.toml"
-hash = "f3d120e8313525f1ce175bdfe9ae349eea1ca2b79439b30756a648391e4ecc9a"
+hash = "9539a62c3f9bd793ee4d181f0fee25c92f15e4fa1e01a7c93780979369e1e70b"
 
 [[files]]
 file = "config/WSCommands.json"
@@ -2041,6 +2041,14 @@ file = "config/betteradvancements-client.toml"
 hash = "38e88509078026a5a660e00947e5a6db74a3c374c8c7978ef64c360167f84db9"
 
 [[files]]
+file = "config/betterdays-client.toml"
+hash = "35304de0d0a03b0724b55eb5375b79103912c034cef7bf0c728d3aa4b17f5014"
+
+[[files]]
+file = "config/betterdays-common.toml"
+hash = "27f7138830420805c5f5fbb0c3bfc7dd03daf6cac637fc3147db77e0bebe5891"
+
+[[files]]
 file = "config/betterjungletemples-neoforge-1_21.toml"
 hash = "77ef014bd34c9f66bf40b3e6ae7a67bf7ec2a618b76eafff9f0921577d3ab1b9"
 
@@ -2123,6 +2131,10 @@ hash = "b2a672a650eb6acead72467f4eb0a83319b67a0e30d63b89e0917d217b6feaeb"
 [[files]]
 file = "config/biomespawnpoint/spawnbiomes.txt"
 hash = "24e15eff0e31d210d4f50f84fdd71298053e7af04d774d8fb07133f260183de4"
+
+[[files]]
+file = "config/blockblocker-common.toml"
+hash = "a8a3da5f0d14d03e909be5463ed6bedb6162e766e402ceb842f48e214d8ac081"
 
 [[files]]
 file = "config/blockrunner-client.toml"
@@ -2818,7 +2830,7 @@ hash = "e0103d9a7c2f2068bdc29e27e43be9adbd79828356f6e61d547e5c04de965b2a"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "d60d3bbcd3623c375e20bdcb3b0a00eb65e5a42522313274ee43c33f07fd65e1"
+hash = "927dead0942e116d5406a03224fde59879e714c2ca558ea172a7aa09519d7249"
 
 [[files]]
 file = "config/fallingleaves-client-1.toml.bak"
@@ -3302,7 +3314,7 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_beginning.snbt"
-hash = "35d10164b9df00cb800a2cbe8db1a9870f47f1f294502284dd84f3f49456b765"
+hash = "a3ee7fdd5f7724739e3d85fb3fadf9be13c45ce98fd399be2b7d5d67a14ac984"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_end.snbt"
@@ -3318,7 +3330,7 @@ hash = "0a418ff41d7ac4ac09575afa5391430ca8eccc98536b655ea7c33c2b2f5f5f6a"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "e96c83f5af6832da61aa60e0249b96d2ef2802e18546f639e33dcecd1521acc0"
+hash = "5dd9ca1a82de958f9f75fab7b8f6f2c14e8f09085226e8b858510f13d2948c3e"
 
 [[files]]
 file = "config/ftbxmodcompat.snbt"
@@ -3482,11 +3494,11 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "44cae80116e8aaf5b5620d1c89d54fbdbf544126d817cf2eb3d4313ae9bdf463"
+hash = "cb4f4daae420f42517e02c335fd9fb6fdf9220da42a601d3473798e8b30f6d42"
 
 [[files]]
 file = "config/incontrol/spawner.json"
-hash = "b732131cf1a9439c5aa6f452583913ba98530243828d7a80131f73290303b369"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/summonaid.json"
@@ -3498,7 +3510,7 @@ hash = "c0f95f7120debf00cdb88f325ce709e7c9a4d6d0142f1100ad43817fbff1324e"
 
 [[files]]
 file = "config/infernalmobs.cfg"
-hash = "6ce8b6960cf9d55b3381baf915a84fed915cc6f73ac3140d6d7f634947438b69"
+hash = "cfce6c69ae7485154401bc84dcb5456be1d2f7aa2fe5993f3934f8cf95c001bc"
 
 [[files]]
 file = "config/inventoryessentials-common-1.toml.bak"
@@ -3606,7 +3618,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "99cca69437d1ab492e8d6dcbafdab646ab93ba5d224304728e0027fee7a34b6c"
+hash = "d914e0689d42139770542d7201aad63e577dd97bb896a3ade5a79cdfa7ef2c64"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3946,7 +3958,7 @@ hash = "15b52c03a0e15c34393640d64c688b056c50579872e90846f346308b81259e6d"
 
 [[files]]
 file = "config/multimine.cfg"
-hash = "4da1dbcc3521d67a46015ab1f08fb1025fa6ff66fce18264a6424c07954fda91"
+hash = "fd49675d25dec95f6ee38e555178c474008450592b7df8ce0d4585ce0a4c0494"
 
 [[files]]
 file = "config/musicnotification.json"
@@ -4046,7 +4058,7 @@ hash = "eb884c5f76913c93dcdc0fe5d0ec96850d637d900d5242aedd6c6f5f3cc55971"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "bbf0ee10b7f6fedf73780ff7a25ab469454a984b1db6a3aff30f84ea770a1845"
+hash = "3de8c861319f0473de027242df5f2ba29ba61d572bb3393143c9573a72b11e96"
 
 [[files]]
 file = "config/paperdoll-client-1.toml.bak"
@@ -4726,15 +4738,15 @@ hash = "ba990212ffd4dadd9585494fa7dd106d97c3b9e5873b62bd23813bb89b99f390"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "157afddc1e177be5a5d2fecf2738d5d77210cab29684d6ce68090c1ff9fc2d50"
+hash = "7f4ac8d11b04d0b560187f5481a191532b4e6f1c4231e3338142684e7b5375f8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "3c0a9d02c0dd5b7c8024793cc95e1b9e27df6414b068048ad0e52c5b4d04e26a"
+hash = "1f578d79c42ef549348b8afd4e35f9210c506d84ebc4fdc5a93aa599fcbe9de4"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "19a9ba1177a3757e8b40f0a403b72b62e09226905cdf4ee7f1b8d4e6ab009deb"
+hash = "126e47e68a01893ffce95b5521aa1340cee680323b1097f7cdea587c3c31cd13"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -5574,7 +5586,7 @@ hash = "272baa584911b04df2a780af7887cfd57befb1f510f5ad9b81229bb49123557b"
 
 [[files]]
 file = "config/uwrad.properties"
-hash = "ee453a38044fc58545c4498cd9ce8cefac66b2202ab9fba8450cbf085eafcd8c"
+hash = "0984470eb082b6f3940fad73f0fb521480c6a71e78857a7b662e6ef40a80f6ef"
 
 [[files]]
 file = "config/vanillaicereamfix.json5"
@@ -5674,11 +5686,11 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "f06b5dd43812e318c3d27102aa1a38d667cf71704bf305a3f11286d963d2e392"
+hash = "54cfcd2f42954eb1c8d0b45bebcbd2200e6382bb34883650ffa27e4077dbbe27"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "addd42eb1f66ba8cb95fa610acf57db2d27aeef8eabc584b68c600a6e2876e38"
+hash = "24e22c4e7bce56d7e34b4ddf76807f07fb76600a2e11db222ac024c776536f20"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -6245,6 +6257,10 @@ file = "global_packs/required_data/modded datapack thing/data/piglinproliferatio
 hash = "943b8564f7aed6c58046f17316b764d5c082391b408fd432edf4b4a2309ba366"
 
 [[files]]
+file = "global_packs/required_data/modded datapack thing/data/pocketgps/recipe/gps.json"
+hash = "508b1e804302076e2d516a0bc211df12dc790cebfbb166f96495f7e927586c49"
+
+[[files]]
 file = "global_packs/required_data/modded datapack thing/pack.mcmeta"
 hash = "23a6f3696706b4aaf722f499558673cc531e9467d345293b8c773eee26adf9f3"
 
@@ -6254,7 +6270,7 @@ hash = "723db733a77e97d31f2bc2dbe7fe0b1224bddbb8f86ffce161e1195dab72d80d"
 
 [[files]]
 file = "global_packs/required_resources/modded resource pack thing/assets/endrem/lang/en_us.json"
-hash = "82365f2e4c8374c68dccd246d8239743ffade162e0348f06f5ba6a7398792c60"
+hash = "b4d18a04539cd7feb8479a5ad852f33968cb3d0c39fefd485e802545e751c0f5"
 
 [[files]]
 file = "global_packs/required_resources/modded resource pack thing/assets/endrem/textures/block/eyes/black_eye.png"
@@ -6374,7 +6390,7 @@ hash = "3514ac2481b12e2d57761a9fa9b081f4944a966b4bef4bab30c030c18543eb4d"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "ba458fc7817d8423857a6bfdd07c5961a2c1233f782f5c6355b63fbf76df4fc3"
+hash = "df0f6b37bf85164e83ed2f470521853e1bdede86b25adf5aa7b4cf89cf2937e7"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -6525,11 +6541,6 @@ hash = "54f70c24912210d007d2640268704364c1464fec1fc11172c5a1c7cf62ffb609"
 metafile = true
 
 [[files]]
-file = "mods/bedtime.pw.toml"
-hash = "2cf4c8125d1b5ca9a6e5a8e9c89ff8b9ead36fdcdabebf7a6461cbe00d5974c0"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "bb2700ce31fc7cd121ecf07f106302303ee366b7573b77bbdd97eee955233cda"
 metafile = true
@@ -6542,6 +6553,11 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "61d4a634f8f97b96723a4fafa56612c1d78f4c9261574a72e01676b5763159e8"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "e103c47287d67da6fff96033391f904b3cf20f3cafe398f1ca1de3c641f213b4"
 metafile = true
 
 [[files]]
@@ -7605,6 +7621,11 @@ hash = "508f6accd2fa287678c2840cecb2d23c288c99fc353b342ef8fe0640ebea8765"
 metafile = true
 
 [[files]]
+file = "mods/pocketgps.pw.toml"
+hash = "c23693e7cacf193eb2224e7b88dae25b566df85fbab9d69884ae68a225bdc2e2"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "e113a523a10dfc48b6c8c57628ab163f846637bcd03f58b67ec52eac90a9c18a"
 metafile = true
@@ -8141,6 +8162,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "c78e5aadda0f2be8481cefeaa7fc27fce87c34097dbfd29aa715fef2b1f55ba4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mt-ct-d.pw.toml"
+hash = "20c7e0d1eab108bb3654e8e72f51776acaae17218adbb2c7e0632ef6c101a48a"
 metafile = true
 
 [[files]]
