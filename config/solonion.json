@@ -9,35 +9,35 @@
   "minFoodsToActivate": 0,
   "benefits": [
     {
-      "threshold": 6,
+      "threshold": 12,
       "benefit": "{key:\"minecraft:generic.max_health\",op:0,type:\"att\",val:2.0d}"
     },
     {
-      "threshold": 10,
+      "threshold": 20,
       "benefit": "{key:\"minecraft:strength\",type:\"eff\",val:0.0d}"
     },
     {
-      "threshold": 14,
+      "threshold": 28,
       "benefit": "{key:\"minecraft:regeneration\",type:\"eff\",val:0.0d}"
     },
     {
-      "threshold": 20,
+      "threshold": 40,
       "benefit": "{key:\"minecraft:speed\",type:\"eff\",val:0.0d}"
     },
     {
-      "threshold": 26,
+      "threshold": 52,
       "benefit": "{key:\"minecraft:generic.armor_toughness\",op:0,type:\"att\",val:2.0d}"
     },
     {
-      "threshold": 36,
+      "threshold": 72,
       "benefit": "{key:\"minecraft:strength\",type:\"eff\",val:1.0d}"
     },
     {
-      "threshold": 50,
+      "threshold": 100,
       "benefit": "{key:\"minecraft:generic.max_health\",op:0,type:\"att\",val:4.0d}"
     },
     {
-      "threshold": 62,
+      "threshold": 124,
       "benefit": "{key:\"minecraft:generic.max_health\",op:0,type:\"att\",val:6.0d}"
     }
   ],

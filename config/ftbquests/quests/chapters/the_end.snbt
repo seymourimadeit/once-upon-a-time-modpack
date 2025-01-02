@@ -1,6 +1,8 @@
 {
+	autofocus_id: "38C0F08AD031272D"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
+	default_quest_size: 2.0d
 	filename: "the_end"
 	group: ""
 	icon: {
@@ -23,8 +25,8 @@
 				item: { count: 1, id: "endrem:rogue_eye" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: -8.0d
+			x: 8.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["3C1B7170A6516BA3"]
@@ -39,8 +41,8 @@
 				item: { count: 1, id: "endrem:cursed_eye" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: -7.0d
+			x: 8.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["3C1B7170A6516BA3"]
@@ -55,7 +57,7 @@
 				item: { count: 1, id: "endrem:undead_eye" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 8.0d
 			y: -6.0d
 		}
 		{
@@ -71,8 +73,8 @@
 				item: { count: 1, id: "endrem:black_eye" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: -5.0d
+			x: 8.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["6B0C3F3D3688DCF8"]
@@ -88,7 +90,7 @@
 				item: { count: 13, id: "modern_industrialization:advanced_machine_hull" }
 				type: "item"
 			}]
-			x: -12.0d
+			x: -17.0d
 			y: -7.0d
 		}
 		{
@@ -101,7 +103,7 @@
 			}]
 			tasks: [
 				{
-					count: 30L
+					count: 29L
 					id: "065D16F6F3EEAA22"
 					item: { count: 30, id: "modern_industrialization:frostproof_machine_casing" }
 					type: "item"
@@ -121,9 +123,14 @@
 					item: { count: 1, id: "modern_industrialization:steel_fluid_input_hatch" }
 					type: "item"
 				}
+				{
+					id: "4811D78266B3F145"
+					item: { count: 1, id: "modern_industrialization:steel_fluid_output_hatch" }
+					type: "item"
+				}
 			]
-			x: -9.5d
-			y: -7.5d
+			x: -12.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["66469DF5B2BB0CFA"]
@@ -163,8 +170,8 @@
 					type: "item"
 				}
 			]
-			x: -7.5d
-			y: -7.5d
+			x: -9.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["7046F3D3672152FB"]
@@ -179,8 +186,8 @@
 				item: { count: 1, id: "modern_industrialization:pressurizer" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: -7.5d
+			x: -6.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["1B407E9FE2C1EE66"]
@@ -207,8 +214,8 @@
 					type: "item"
 				}
 			]
-			x: -3.5d
-			y: -7.5d
+			x: -3.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["641D45DEA19546F2"]
@@ -247,8 +254,8 @@
 					type: "item"
 				}
 			]
-			x: -3.0d
-			y: -8.5d
+			x: -1.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["641D45DEA19546F2"]
@@ -263,7 +270,7 @@
 				item: { count: 1, id: "modern_industrialization:hv_diesel_generator" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -1.0d
 			y: -7.5d
 		}
 		{
@@ -303,8 +310,8 @@
 					type: "item"
 				}
 			]
-			x: -1.0d
-			y: -6.5d
+			x: -4.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["38C0F08AD031272D"]
@@ -348,8 +355,8 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
-			y: -7.5d
+			x: 1.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["7F52265BA08C6F55"]
@@ -410,7 +417,7 @@
 					type: "item"
 				}
 			]
-			x: 1.0d
+			x: 2.5d
 			y: -6.5d
 		}
 		{
@@ -429,7 +436,7 @@
 				to_observe: "dmr:dragon"
 				type: "observation"
 			}]
-			x: 8.5d
+			x: 16.0d
 			y: -7.0d
 		}
 		{
@@ -453,7 +460,7 @@
 				id: "15A5160716A01176"
 				type: "dimension"
 			}]
-			x: 6.0d
+			x: 11.0d
 			y: -7.0d
 		}
 		{
@@ -469,8 +476,8 @@
 				item: { components: { "minecraft:potion_contents": { potion: "mutantmonsters:chemical_x" } }, count: 1, id: "minecraft:splash_potion" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -6.5d
+			x: 5.0d
+			y: -7.0d
 		}
 	]
 }

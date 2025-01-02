@@ -1,7 +1,8 @@
 {
-	autofocus_id: "4FB74680172A83AF"
+	autofocus_id: "21D7C301F5ACC45E"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
+	default_quest_size: 2.0d
 	filename: "the_beginning"
 	group: ""
 	icon: {
@@ -13,7 +14,10 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["352201DF0D7A8704"]
+			dependencies: [
+				"352201DF0D7A8704"
+				"237DB0C4030ABD37"
+			]
 			id: "2CDC0FDDFB3CA319"
 			progression_mode: "linear"
 			rewards: [{
@@ -27,12 +31,11 @@
 				item: { count: 10, id: "minecraft:diamond" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -2.5d
+			x: -5.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["352201DF0D7A8704"]
-			icon_scale: 2.0d
 			id: "237DB0C4030ABD37"
 			rewards: [{
 				id: "50A5A855535FA29A"
@@ -44,8 +47,8 @@
 				item: { components: { "ftbfiltersystem:filter": "item_tag(minecraft:beds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: -2.5d
+			x: -9.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["11E3A8E50E7F54B8"]
@@ -98,7 +101,7 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: 3.0d
 			y: -2.0d
 		}
 		{
@@ -152,7 +155,7 @@
 					type: "item"
 				}
 			]
-			x: 5.5d
+			x: 12.0d
 			y: -2.0d
 		}
 		{
@@ -220,7 +223,7 @@
 					type: "item"
 				}
 			]
-			x: 7.0d
+			x: 17.0d
 			y: -2.0d
 		}
 		{
@@ -236,8 +239,8 @@
 				item: { count: 1, id: "modern_industrialization:forge_hammer" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -2.5d
+			x: 0.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["237DB0C4030ABD37"]
@@ -303,7 +306,7 @@
 				}
 			]
 			x: 1.0d
-			y: -1.5d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -322,8 +325,8 @@
 				item: { count: 4, id: "kubejs:iron_upgrade_smithing_template" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -1.0d
+			x: 7.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["21D7C301F5ACC45E"]
@@ -339,12 +342,11 @@
 				item: { count: 1, id: "ars_nouveau:novice_spell_book" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -3.0d
+			x: 3.0d
+			y: -5.0d
 		}
 		{
 			can_repeat: false
-			icon_scale: 1.6d
 			id: "4FB74680172A83AF"
 			rewards: [{
 				id: "49CB7D9E6E6AD6CB"
@@ -363,8 +365,8 @@
 				optional_task: true
 				type: "custom"
 			}]
-			x: -6.5d
-			y: -2.5d
+			x: -20.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["21D7C301F5ACC45E"]
@@ -402,7 +404,7 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
+			x: 6.0d
 			y: -2.0d
 		}
 		{
@@ -427,7 +429,7 @@
 				}
 			]
 			x: 2.0d
-			y: -6.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["21629D5495843986"]
@@ -450,8 +452,8 @@
 					type: "item"
 				}
 			]
-			x: 5.5d
-			y: -3.0d
+			x: 11.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["21629D5495843986"]
@@ -479,8 +481,8 @@
 					type: "item"
 				}
 			]
-			x: 5.5d
-			y: -4.0d
+			x: 10.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["21629D5495843986"]
@@ -503,8 +505,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: -5.5d
+			x: 6.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["277A62AAD6DB9C42"]
@@ -553,7 +555,7 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
+			x: 8.5d
 			y: -2.0d
 		}
 		{
@@ -569,8 +571,8 @@
 				item: { count: 1, id: "endrem:evil_eye" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: -1.0d
+			x: 14.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["604635AF9C133504"]
@@ -585,8 +587,8 @@
 				item: { count: 1, id: "endrem:lost_eye" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 0.0d
+			x: 11.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["2CDC0FDDFB3CA319"]
@@ -601,8 +603,8 @@
 				item: { count: 1, id: "lifesteal:heart_crystal" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: -3.5d
+			x: 0.0d
+			y: -5.0d
 		}
 		{
 			id: "352201DF0D7A8704"
@@ -633,8 +635,8 @@
 					type: "item"
 				}
 			]
-			x: -4.5d
-			y: -2.5d
+			x: -13.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["352201DF0D7A8704"]
@@ -649,8 +651,8 @@
 				item: { count: 1, id: "endrem:old_eye" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: -4.0d
+			x: -2.5d
+			y: -6.25d
 		}
 		{
 			dependencies: ["08C17527485D5B6E"]
@@ -665,8 +667,8 @@
 				item: { count: 1, id: "ars_nouveau:apprentice_spell_book" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: -3.0d
+			x: 15.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["5CD26C97233DBCCD"]
@@ -699,8 +701,8 @@
 					type: "item"
 				}
 			]
-			x: 0.5d
-			y: -0.5d
+			x: 0.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["5CD26C97233DBCCD"]
@@ -734,7 +736,7 @@
 				}
 			]
 			x: -3.0d
-			y: 0.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["21629D5495843986"]
@@ -749,8 +751,8 @@
 				item: { count: 1, id: "ars_nouveau:ritual_brazier" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: -5.0d
+			x: 9.0d
+			y: -9.0d
 		}
 		{
 			id: "182CF71EFA117A8E"

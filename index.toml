@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "31713a86858ca2859cfd320a5338b6f81a2e631b0d9ca503705ffdc05c902534"
+file = ".github/workflows/release.yml"
+hash = "a96c55d34a14e9471b1796834cca3a9eeeee72a04fd7767ba4e4bd3b2a7d631f"
 
 [[files]]
-file = "README.md"
-hash = "f56f8070ef1c62b9a8793d237ec63600ec43f538319da507a1e240fe8e68a274"
+file = ".github/workflows/update-license.yml"
+hash = "5f4e7e2c6961391ca0e80c022985adcb74729c5e654462c9d7b180c458e4508f"
 
 [[files]]
 file = "config/.toolswap"
@@ -94,7 +94,7 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/RuOK.toml"
-hash = "8ee500125f431029a0fa1495ee364923be43816acdf4fdbff09dc2c8558d7295"
+hash = "f3d120e8313525f1ce175bdfe9ae349eea1ca2b79439b30756a648391e4ecc9a"
 
 [[files]]
 file = "config/WSCommands.json"
@@ -1994,15 +1994,15 @@ hash = "91c177736985ad1839a5c237ce6230ee2ec2b71129b9a63e08f56189b34751d8"
 
 [[files]]
 file = "config/auroras/aether.json"
-hash = "c3465e136134e49e7c82c76518fd8daf3cb2cf84762e9779f608c2a347b45914"
+hash = "d0e1f272c0c9f0c6bdefe28814c253bba142916b5a5f1299b2a577dff035fcdb"
 
 [[files]]
 file = "config/auroras/overworld.json"
-hash = "c1fe21ba1f24a5d10f541c69964db54c379edea90ec3cc1c127d803b7080970f"
+hash = "bc587d5679d60325daa438e00804d3a30f8a1db5d44a89479388cc6edb1cc9a3"
 
 [[files]]
 file = "config/auroras/the_end.json"
-hash = "aaa8280a670b3c6e9537039907804214764bb5f15e7dfae863a53754dcb172f1"
+hash = "2be2af5e5a1049775fb6e2a54fa9ce164d94083097753e9edfebed7f42354015"
 
 [[files]]
 file = "config/azurelib.json"
@@ -2826,7 +2826,7 @@ hash = "e0103d9a7c2f2068bdc29e27e43be9adbd79828356f6e61d547e5c04de965b2a"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "5cc8976876cfe5a1e0e72218d2214b810bfb2100548ba3757386155d079f268f"
+hash = "d60d3bbcd3623c375e20bdcb3b0a00eb65e5a42522313274ee43c33f07fd65e1"
 
 [[files]]
 file = "config/fallingleaves-client-1.toml.bak"
@@ -2870,7 +2870,7 @@ hash = "743dc9de1c669f98ae42757d311b457864fc6ee49ba45ba8ac1d364564c39d7b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "f5081f03da0aa9a6022dad93d1e4ccc55974112bfdcee28ea396f75b260f9566"
+hash = "ce61d8e3ab001611161346ce64a6b963e4a397420248689922fd04db58a38ec8"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -3306,19 +3306,19 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_beginning.snbt"
-hash = "6fab56c0287906ad720da25972a5485954946d10e8af230bb5f8062c2dfd176a"
+hash = "35d10164b9df00cb800a2cbe8db1a9870f47f1f294502284dd84f3f49456b765"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_end.snbt"
-hash = "cbec9f95a37bbddd14959bddbfe1373254270344d01122f3a22a68f2007e049b"
+hash = "ed7c6c6e99746900a26c9a5006559f1e22917a23d84fbbc8a2ac3d5b892076b4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_middle.snbt"
-hash = "3c3934c5f35d742e7bb012a9386647e55617af05fae166b4e44fafccc398b45b"
+hash = "e40d40bdc5d7ef32da29368fbd14170c37e80d7511b3467adf9309bf9ada0015"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "75fd7e53006af7314080d63051693f2c945e7c2e30b6a1af47ffe43386c14e20"
+hash = "0a418ff41d7ac4ac09575afa5391430ca8eccc98536b655ea7c33c2b2f5f5f6a"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
@@ -3502,7 +3502,7 @@ hash = "c0f95f7120debf00cdb88f325ce709e7c9a4d6d0142f1100ad43817fbff1324e"
 
 [[files]]
 file = "config/infernalmobs.cfg"
-hash = "665c2d75aeb71836c5a0d7b5eab19aeca71f9e5e04162bb68e8b9fddab25d540"
+hash = "6ce8b6960cf9d55b3381baf915a84fed915cc6f73ac3140d6d7f634947438b69"
 
 [[files]]
 file = "config/inventoryessentials-common-1.toml.bak"
@@ -4050,7 +4050,7 @@ hash = "eb884c5f76913c93dcdc0fe5d0ec96850d637d900d5242aedd6c6f5f3cc55971"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "fcf6be1d568526b8a1bd17ff373688d16d088891b702f7e0d2a762028d0806cb"
+hash = "bbf0ee10b7f6fedf73780ff7a25ab469454a984b1db6a3aff30f84ea770a1845"
 
 [[files]]
 file = "config/paperdoll-client-1.toml.bak"
@@ -4153,16 +4153,24 @@ file = "config/picturesign.json"
 hash = "14069dae28830b30277fa8f71f29b0d4e018f1412f5447db464a4798632c3aa5"
 
 [[files]]
-file = "config/piglinproliferation-client.toml"
+file = "config/piglinproliferation-client-1.toml.bak"
 hash = "8abb0f2416cc8855f12bb7cbbd8268c6154adbaef18b58ee0b03798cd8b38ef7"
 
 [[files]]
+file = "config/piglinproliferation-client.toml"
+hash = "b6b1fa804671f3949ab7e6cf680508549be1ff1ffe7586f9a672550be88caa75"
+
+[[files]]
 file = "config/piglinproliferation-common-1.toml.bak"
+hash = "a1a788b33279380b8be5228ad90fb8d6d89cf3952b8ae944c26c683af44437fc"
+
+[[files]]
+file = "config/piglinproliferation-common-2.toml.bak"
 hash = "0ffc44c4fc3ec6a6258fcda512fba3690f7ee2d719a7a0f621edaeba5299b753"
 
 [[files]]
 file = "config/piglinproliferation-common.toml"
-hash = "a1a788b33279380b8be5228ad90fb8d6d89cf3952b8ae944c26c683af44437fc"
+hash = "ac38ae56bcd6ad8022fb194995367234e59e3d8b1d785696248f96460a67f01a"
 
 [[files]]
 file = "config/placebo.cfg"
@@ -4238,11 +4246,11 @@ hash = "b1ded0c619be4e214c8ae5d464c467f133ac8bf3141309bb30f317ffa9e577da"
 
 [[files]]
 file = "config/rainbows/aether.json"
-hash = "c264705480c5916358b90288b410e683ede4810fd0bfa6bcf4706b2577de6fa9"
+hash = "07a4a08eb650128f2698f1b277c32f64851d1281ed5987981b11cd7a2e72ac94"
 
 [[files]]
 file = "config/rainbows/overworld.json"
-hash = "e9b1f02ec61701acb7093221621e787d8ad407ab7c501faa5ab4b86d2bf0a86d"
+hash = "6e4ce4c010d7b99d5028a6cccbf5cf1f8cd6fa19b4ce51a954cb4900d72fbb96"
 
 [[files]]
 file = "config/random_mob_sizes.json"
@@ -4718,7 +4726,7 @@ hash = "a61bf542da53f4272af5b95d489b374d5490283cca068f5ea587aa8789ee171b"
 
 [[files]]
 file = "config/solonion.json"
-hash = "8a231a7f86004f38e834b093e598c392bb16c2cd59e6276c8abfb32acceed13c"
+hash = "ba990212ffd4dadd9585494fa7dd106d97c3b9e5873b62bd23813bb89b99f390"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
@@ -4726,11 +4734,11 @@ hash = "157afddc1e177be5a5d2fecf2738d5d77210cab29684d6ce68090c1ff9fc2d50"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "e82aea211a85edc55348cbcdec39d33e1b20e58e20b4d3e6eecdfa017f395b5e"
+hash = "3c0a9d02c0dd5b7c8024793cc95e1b9e27df6414b068048ad0e52c5b4d04e26a"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "a72d240d8a791446cbafff1612738b8384db5fc0c58aea6d7654203b1c731ab7"
+hash = "19a9ba1177a3757e8b40f0a403b72b62e09226905cdf4ee7f1b8d4e6ab009deb"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -5570,7 +5578,7 @@ hash = "272baa584911b04df2a780af7887cfd57befb1f510f5ad9b81229bb49123557b"
 
 [[files]]
 file = "config/uwrad.properties"
-hash = "21ee5fd47e250169d7354c034023fa631069d7a5ba0c69605870f693f9537d93"
+hash = "ee453a38044fc58545c4498cd9ce8cefac66b2202ab9fba8450cbf085eafcd8c"
 
 [[files]]
 file = "config/vanillaicereamfix.json5"
@@ -5674,7 +5682,7 @@ hash = "f06b5dd43812e318c3d27102aa1a38d667cf71704bf305a3f11286d963d2e392"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "27aa452bf5ce3f6c8a5c7ac801840e8b7e2a433cb1d0b0e2c1ffcbce13818b75"
+hash = "addd42eb1f66ba8cb95fa610acf57db2d27aeef8eabc584b68c600a6e2876e38"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -6114,7 +6122,7 @@ hash = "f9b8539ac967d630173f77654ee671299181e5421a80d1a5e409130257cc3b7a"
 
 [[files]]
 file = "global_packs/required_data/modded datapack thing/data/modded_stuff/recipe/lost_eye.json"
-hash = "e57ef98ba7571febf3d6a0d4900409f8673a5d90cc289ac20581d5a700ba3c2b"
+hash = "35f2d603134ac2f093dbc787ddf1ad381c3fa1c1c3eef17edf168db40bf8560e"
 
 [[files]]
 file = "global_packs/required_data/modded datapack thing/data/modded_stuff/recipe/old_eye.json"
@@ -6237,6 +6245,10 @@ file = "global_packs/required_data/modded datapack thing/data/neoforge/data_maps
 hash = "0b20a332e3deccf57c6505a139c9eef70be49889d2ec646e208206577885487e"
 
 [[files]]
+file = "global_packs/required_data/modded datapack thing/data/piglinproliferation/tags/worldgen/structure/travelers_compass_search.json"
+hash = "943b8564f7aed6c58046f17316b764d5c082391b408fd432edf4b4a2309ba366"
+
+[[files]]
 file = "global_packs/required_data/modded datapack thing/pack.mcmeta"
 hash = "23a6f3696706b4aaf722f499558673cc531e9467d345293b8c773eee26adf9f3"
 
@@ -6246,7 +6258,7 @@ hash = "723db733a77e97d31f2bc2dbe7fe0b1224bddbb8f86ffce161e1195dab72d80d"
 
 [[files]]
 file = "global_packs/required_resources/modded resource pack thing/assets/endrem/lang/en_us.json"
-hash = "525315bf4401fbf1c1dde987058a23cd78a7637e179d83287a2c6cf24fcaac29"
+hash = "5ff548dfb48a82d8e18e4473d6340d98024e244cf51dc544554158f8f2a51d75"
 
 [[files]]
 file = "global_packs/required_resources/modded resource pack thing/assets/endrem/textures/block/eyes/black_eye.png"
@@ -6307,10 +6319,6 @@ hash = "1c208fb75bc1da834f0606443f698bc5894377da5ec84ce65d214ab41766c4e1"
 [[files]]
 file = "global_packs/required_resources/modded resource pack thing/pack.mcmeta"
 hash = "b382400ac3b54d6d6cd2e2e4b27bb40e97f5a7b3a83c624de117634aca455a86"
-
-[[files]]
-file = "kZo_Image_1.png"
-hash = "d81865dfdedc66c317e731d6687818056ba4ca4d8173a0e89506044d921b237a"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -6379,18 +6387,6 @@ hash = "19c11c4004d8686b4b26e35026a5f8dd2bcb1f9164b2827d31625e2b02585aa7"
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
 hash = "113d9292af0947336c4f388e4ceae689e0447e41ab25344f0182219e07267a60"
-
-[[files]]
-file = "mods/.connector/Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1_mapped_moj_1.21.1.jar"
-hash = "81c7da27f3f4b5bfb0602989da000017153f9fd483fe8843265965380d1c6f8e"
-
-[[files]]
-file = "mods/.connector/Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1_mapped_moj_1.21.1.jar.input"
-hash = "be80795a2ae91114c24a4ca2973c6ffdaab43932d8aaae4dccb11d512bb2cb02"
-
-[[files]]
-file = "mods/.connector/patch_audit.txt"
-hash = "41c5fb28c7791e9c86e529733f13c9a55648f197f7edf33ea0b4366c1072d669"
 
 [[files]]
 file = "mods/a-good-place.pw.toml"
@@ -6499,7 +6495,7 @@ metafile = true
 
 [[files]]
 file = "mods/auroras.pw.toml"
-hash = "93c4f38dfa84cb88f93cc1b5a288511b4602e713cc554a1242006a2189c1fff5"
+hash = "22523481b7a5b3be8e086462d6598a209d5ccdd3fea0c6a2c6384e9aa92b40ec"
 metafile = true
 
 [[files]]
@@ -6714,7 +6710,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "c399f8563360fae2fbf716143832e3fe305c09b11f33b910a72a42dc832f3e99"
+hash = "6978b78d6b01b8d5ca2c9a5c27d83a51837299270f80f0a9660deb2f36804f20"
 metafile = true
 
 [[files]]
@@ -6819,7 +6815,7 @@ metafile = true
 
 [[files]]
 file = "mods/disccord.pw.toml"
-hash = "2ef0ea8e1aed26598178e15522e92f273d5942bb69c089ee0a30bd3ba075939a"
+hash = "6e0ab749228fd9d0defb2ccfa0ed410771d595deea727eea788f445a5a5149f0"
 metafile = true
 
 [[files]]
@@ -7614,7 +7610,7 @@ metafile = true
 
 [[files]]
 file = "mods/piglin-proliferation.pw.toml"
-hash = "01ed910cb7ceac82fc7ae6e4b4a804841ad274f065ce6a5c4db2782ceeb03ea4"
+hash = "6c1650ac403e85ff6bba901b992c20a4216fdf5195cc2dc9b1cc84cb11af1840"
 metafile = true
 
 [[files]]
@@ -7674,7 +7670,7 @@ metafile = true
 
 [[files]]
 file = "mods/rainboows.pw.toml"
-hash = "09afdad068c7281b525fe29a1492aae37b5c88b102eba5d1090a75cd7ba7ef07"
+hash = "17442b063a17e852d802315c665902d36ceee2aa9da60694fa97e4f0e9d3efb5"
 metafile = true
 
 [[files]]
@@ -7844,7 +7840,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "e4ad1fc7926ae1263d605614aa8a9a31da99cae9eb022cfbd49c5f628476e32e"
+hash = "9bf19dc4eeedb9fcc17d09d5d64b063c6e2798f2abc6856e5f268e939e45e317"
 metafile = true
 
 [[files]]
@@ -7939,7 +7935,7 @@ metafile = true
 
 [[files]]
 file = "mods/sword-blocking-mechanics.pw.toml"
-hash = "661fafef386c2cd9b1c55f09065cdb53c9a8e243db685a03deb46ba852465cc8"
+hash = "e3a08466e5961b0a5433e4c339454b96a03028e5e2c5019c5611457636b4378b"
 metafile = true
 
 [[files]]
@@ -8153,7 +8149,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-waystones-texture.pw.toml"
-hash = "912559f1e9f3237c59cea29362ed8a7af559b695b25e02488b958cdf3d2bc56e"
+hash = "dd91c22e378715d83782d03668ad65b5833c7c85ed634f2e664412cb50e4366b"
 metafile = true
 
 [[files]]

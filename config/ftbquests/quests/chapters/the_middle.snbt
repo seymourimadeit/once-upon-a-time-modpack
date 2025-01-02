@@ -1,7 +1,8 @@
 {
-	autofocus_id: "683F4BFE066980E8"
+	autofocus_id: "192EA9E67368A9EC"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
+	default_quest_size: 2.0d
 	filename: "the_middle"
 	group: ""
 	icon: {
@@ -24,8 +25,8 @@
 				type: "stat"
 				value: 25
 			}]
-			x: -1.5d
-			y: -3.0d
+			x: -1.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["708F887E65110BB9"]
@@ -54,8 +55,8 @@
 				type: "stat"
 				value: 1
 			}]
-			x: 0.0d
-			y: -1.5d
+			x: 4.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["4F93010512681542"]
@@ -81,8 +82,8 @@
 				item: { count: 1, id: "endrem:guardian_eye" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: 2.5d
+			x: -5.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["683F4BFE066980E8"]
@@ -97,8 +98,8 @@
 				item: { count: 1, id: "modern_industrialization:steel_wiremill" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: -1.5d
+			x: -11.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["4F17AE0C65F1F6C5"]
@@ -114,8 +115,8 @@
 				item: { count: 5, id: "modern_industrialization:rubber_sheet" }
 				type: "item"
 			}]
-			x: -9.5d
-			y: -1.5d
+			x: -17.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["30293D280F7ADC81"]
@@ -138,8 +139,8 @@
 					type: "item"
 				}
 			]
-			x: -5.5d
-			y: -2.5d
+			x: -8.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["041137D5B5DE6BB9"]
@@ -189,8 +190,8 @@
 					type: "item"
 				}
 			]
-			x: -4.5d
-			y: -1.0d
+			x: -4.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["322E10B6F6A040DB"]
@@ -212,8 +213,8 @@
 					type: "item"
 				}
 			]
-			x: -2.0d
-			y: -2.0d
+			x: -3.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["7B16B236B1957370"]
@@ -274,7 +275,7 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
+			x: -2.5d
 			y: -0.5d
 		}
 		{
@@ -324,8 +325,8 @@
 					type: "item"
 				}
 			]
-			x: 1.5d
-			y: -1.0d
+			x: 1.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["05D2EE9380BD9576"]
@@ -357,8 +358,8 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
-			y: -0.5d
+			x: 6.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["6B60826D23CE8A6B"]
@@ -380,8 +381,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: -1.5d
+			x: 7.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["33CDC5826E77E685"]
@@ -442,8 +443,8 @@
 					type: "item"
 				}
 			]
-			x: 6.5d
-			y: -2.0d
+			x: 9.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["21CEE0ED62BC1B5C"]
@@ -458,8 +459,8 @@
 				item: { count: 1, id: "modern_industrialization:diesel_jetpack" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: -0.5d
+			x: 12.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["3CDE29A77A15A90A"]
@@ -474,8 +475,8 @@
 				item: { count: 1, id: "endrem:nether_eye" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: -0.5d
+			x: 0.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["68D2474AA2180BCE"]
@@ -501,8 +502,8 @@
 				item: { count: 1, id: "endrem:wither_eye" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: 0.5d
+			x: 2.0d
+			y: 7.0d
 		}
 		{
 			id: "3CDE29A77A15A90A"
@@ -524,8 +525,8 @@
 					type: "dimension"
 				}
 			]
-			x: -6.0d
-			y: -0.5d
+			x: -8.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["5C851E9C9E9821BA"]
@@ -535,8 +536,8 @@
 				item: { components: { "minecraft:potion_contents": { potion: "minecraft:long_water_breathing" } }, count: 1, id: "minecraft:potion" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: 1.0d
+			x: -7.0d
+			y: -3.0d
 		}
 		{
 			id: "5C851E9C9E9821BA"
@@ -550,8 +551,8 @@
 				item: { count: 1, id: "minecraft:brewing_stand" }
 				type: "item"
 			}]
-			x: -8.5d
-			y: -0.5d
+			x: -13.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["3CDE29A77A15A90A"]
@@ -566,8 +567,8 @@
 				item: { count: 1, id: "piglinproliferation:travelers_compass" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 0.5d
+			x: -1.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["192EA9E67368A9EC"]
@@ -582,8 +583,8 @@
 				item: { count: 1, id: "modern_industrialization:assembler" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 1.5d
+			x: 1.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["0C8C287A68B90EF5"]
@@ -598,8 +599,8 @@
 				item: { count: 1, id: "endrem:cold_eye" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 1.5d
+			x: 4.0d
+			y: 3.0d
 		}
 		{
 			id: "0C8C287A68B90EF5"
@@ -630,8 +631,8 @@
 					type: "item"
 				}
 			]
-			x: 1.5d
-			y: 0.0d
+			x: 4.0d
+			y: 1.0d
 		}
 		{
 			dependencies: [
@@ -644,14 +645,13 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			size: 1.3d
 			tasks: [{
 				id: "3A31B7BA19B21D8E"
 				item: { count: 1, id: "ars_nouveau:archmage_spell_book" }
 				type: "item"
 			}]
-			x: 0.65d
-			y: 3.2500000000000004d
+			x: 3.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["77B38E622595CE65"]
@@ -666,8 +666,8 @@
 				item: { count: 1, id: "piglinproliferation:buckler" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 2.0d
+			x: -1.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["3CDE29A77A15A90A"]
@@ -683,8 +683,8 @@
 				item: { count: 16, id: "minecraft:ender_eye" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 2.0d
+			x: -4.0d
+			y: 7.0d
 		}
 	]
 }
