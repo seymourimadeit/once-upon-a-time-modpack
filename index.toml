@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/release.yml"
-hash = "a96c55d34a14e9471b1796834cca3a9eeeee72a04fd7767ba4e4bd3b2a7d631f"
-
-[[files]]
-file = ".github/workflows/update-license.yml"
-hash = "5f4e7e2c6961391ca0e80c022985adcb74729c5e654462c9d7b180c458e4508f"
-
-[[files]]
 file = "config/.toolswap"
 hash = "fcbcf165908dd18a9e49f7ff27810176db8e9f63b4352213741664245224f8aa"
 
@@ -2947,6 +2939,10 @@ hash = "004c008991d8136a3e12003fc81137f8bc9475470b19778c3dd1a3fef9b25b69"
 [[files]]
 file = "config/fancymenu/slideshows/bruh/images/2024-11-27_23.28.32.png"
 hash = "9cf2e4917be907c8e199f10014300d045e3f4d7b446ddbd241f92f26ea6700f8"
+
+[[files]]
+file = "config/fancymenu/slideshows/bruh/images/2024-11-29_20.07.00.png"
+hash = "92ca2fe4c5435999f78fbe99c66b1da2ef5ba6594ac83b17cf60974c9a26de40"
 
 [[files]]
 file = "config/fancymenu/slideshows/bruh/images/2024-11-29_21.38.48.png"
@@ -6258,7 +6254,7 @@ hash = "723db733a77e97d31f2bc2dbe7fe0b1224bddbb8f86ffce161e1195dab72d80d"
 
 [[files]]
 file = "global_packs/required_resources/modded resource pack thing/assets/endrem/lang/en_us.json"
-hash = "5ff548dfb48a82d8e18e4473d6340d98024e244cf51dc544554158f8f2a51d75"
+hash = "82365f2e4c8374c68dccd246d8239743ffade162e0348f06f5ba6a7398792c60"
 
 [[files]]
 file = "global_packs/required_resources/modded resource pack thing/assets/endrem/textures/block/eyes/black_eye.png"
