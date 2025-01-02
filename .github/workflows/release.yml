@@ -15,7 +15,7 @@ jobs:
         with:
           go-version: '>=1.19'
       - name: Install packwiz
-        run: go install github.com/Nadwey/packwiz
+        run: go install github.com/Nadwey/packwiz@latest
         
       - name: Export modpack for CurseForge
         run: packwiz curseforge export
