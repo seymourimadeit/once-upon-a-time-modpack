@@ -6374,7 +6374,7 @@ hash = "3514ac2481b12e2d57761a9fa9b081f4944a966b4bef4bab30c030c18543eb4d"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "31393c1680177936288f99be7cfda983b1c59e1378c544d0ab1177f72ea1202d"
+hash = "ba458fc7817d8423857a6bfdd07c5961a2c1233f782f5c6355b63fbf76df4fc3"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -7055,11 +7055,6 @@ hash = "a8e0dab37d81e18962a5d4c0686554add69ea06b8ee95397a0c5eff88b6db703"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "91bd23dd592b8587d094b5953eba29ec6529c1828bd3c85cf0ef6786f1be9e3b"
-metafile = true
-
-[[files]]
 file = "mods/friendermite.pw.toml"
 hash = "e8f5ffd96a1d5744d2ddc0613410bf496e934e822059ecdabadd0924c80ad1da"
 metafile = true
@@ -7227,11 +7222,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
 hash = "046ce02f3e29d83efeb82812d5d6848a00b032f823baf0a77481baca085d9ddc"
-metafile = true
-
-[[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "6a2c5161853fdc3fe2ecde8476d7338ceaec2d0155c58b8ba5f808993f3d14d0"
 metafile = true
 
 [[files]]
@@ -7777,11 +7767,6 @@ metafile = true
 [[files]]
 file = "mods/simple-weather.pw.toml"
 hash = "b67c5e81cfaca18f46a5b7a33f439484653320c6bb029839ce2b911eac001293"
-metafile = true
-
-[[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "a515d70f1fc773f363dc56670307ebd06e50b0028e6ea1b60649c0bc76b2afcb"
 metafile = true
 
 [[files]]

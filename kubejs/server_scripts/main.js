@@ -23,6 +23,7 @@ ServerEvents.recipes(event => {
   event.remove({ id: 'solonion:golden_lunchbox' })
   event.remove({ id: 'solonion:lunchbag' })
   event.remove({ id: 'solonion:lunchbox' })
+  event.remove({ id: 'minecraft:bundle' })
   event.remove({ id: 'minecraft:enchanting_table'})
 })
 MoreJS.registerPotionBrewing(event => {
@@ -250,7 +251,7 @@ LootJS.modifiers(event => {
   event.addTableModifier(LootType.CHEST, LootType.VAULT).removeLoot("minecraft:iron_hoe")
   event.addTableModifier(LootType.CHEST, LootType.VAULT).removeLoot("minecraft:iron_shovel")
   event.addTableModifier(LootType.CHEST, LootType.VAULT).removeLoot("minecraft:iron_sword")
-  event.addTableModifier(LootType.CHEST, LootType.VAULT).removeLoot("minecraft:iron_sword")
+  event.addTableModifier(LootType.CHEST, LootType.VAULT).removeLoot("minecraft:bundle")
   event.addTableModifier(LootType.CHEST, LootType.VAULT, LootType.ARCHAEOLOGY).removeLoot("artifacts:everlasting_beef")
   event.addTableModifier(LootType.CHEST, LootType.VAULT, LootType.ARCHAEOLOGY).removeLoot("artifacts:eternal_steak")
   event.addTableModifier(LootType.CHEST, LootType.VAULT, LootType.ARCHAEOLOGY).removeLoot("artifacts:umbrella")
