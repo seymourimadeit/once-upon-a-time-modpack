@@ -33,4 +33,3 @@ jobs:
           #version-type: release
           #changelog-file: changelog-1.21.*
           version: 1.0.0
-          name: Once Upon A Time Server Pack
