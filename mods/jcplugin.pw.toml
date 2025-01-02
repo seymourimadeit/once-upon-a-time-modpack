@@ -1,6 +1,6 @@
 name = "JCPlugin"
 filename = "JCPlugin-1.20.x-4.0.4-NeoForge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

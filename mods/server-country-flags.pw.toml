@@ -1,6 +1,6 @@
 name = "Server Country Flags"
 filename = "servercountryflags-1.10.4-1.21.1-NEOFORGE.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
