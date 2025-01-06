@@ -19,7 +19,12 @@ jobs:
         
       - name: Export modpack for CurseForge
         run: packwiz curseforge export
-        
+      - name: Replace single file
+        uses: richardrigutins/replace-in-files@v2
+        with:
+          files: 'Once Upon A Time.zip/manifest.json'
+          search-text: '"modLoaders": []'
+          replacement-text: '    "modLoaders": [{"id": "neoforge-21.1.83","primary": true} ]},'
       - name: Upload the modpack 
         uses: Kir-Antipov/mc-publish@v3.3.0
         with:
