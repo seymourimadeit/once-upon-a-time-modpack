@@ -15,16 +15,9 @@ jobs:
         with:
           go-version: '>=1.19'
       - name: Install packwiz
-        run: go install github.com/Nadwey/packwiz@latest
-        
+        run: go install github.com/Nadwey/packwiz/mainer-main@latest
       - name: Export modpack for CurseForge
         run: packwiz curseforge export
-      - name: Replace single file
-        uses: richardrigutins/replace-in-files@v2
-        with:
-          files: 'manifest.json'
-          search-text: '[]'
-          replacement-text: '[{"id": "neoforge-21.1.83","primary": true} ]'
       - name: Upload the modpack 
         uses: Kir-Antipov/mc-publish@v3.3.0
         with:
