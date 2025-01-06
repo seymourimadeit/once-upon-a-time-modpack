@@ -22,8 +22,7 @@ jobs:
       - name: Replace single file
         uses: richardrigutins/replace-in-files@v2
         with:
-          files: |
-            *.zip/manifest.json
+          files: '**/manifest.json'
           search-text: '"modLoaders": []'
           replacement-text: '"modLoaders": [{"id": "neoforge-21.1.83","primary": true} ]},'
       - name: Upload the modpack 
